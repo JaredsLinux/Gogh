@@ -1,0 +1,22 @@
+! Profile: Sweet Terminal
+
+Urxvt*color0:			#3F3F54
+Urxvt*color1:			#f60055
+Urxvt*color2:			#06c993
+Urxvt*color3:			#9700be
+Urxvt*color4:			#f69154
+Urxvt*color5:			#ec89cb
+Urxvt*color6:			#60ADEC
+Urxvt*color7:			#ABB2BF
+Urxvt*color8:			#959DCB
+Urxvt*color9:			#f60055
+Urxvt*color10:			#06c993
+Urxvt*color11:			#9700be
+Urxvt*color12:			#f69154
+Urxvt*color13:			#ec89cb
+Urxvt*color14:			#00dded
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#222235
+
+Urxvt.foreground: #ffffff

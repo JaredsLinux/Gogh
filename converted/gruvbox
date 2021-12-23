@@ -1,0 +1,22 @@
+! Profile: Gruvbox
+
+Urxvt*color0:			#fbf1c7
+Urxvt*color1:			#cc241d
+Urxvt*color2:			#98971a
+Urxvt*color3:			#d79921
+Urxvt*color4:			#458588
+Urxvt*color5:			#b16286
+Urxvt*color6:			#689d6a
+Urxvt*color7:			#7c6f64
+Urxvt*color8:			#928374
+Urxvt*color9:			#9d0006
+Urxvt*color10:			#79740e
+Urxvt*color11:			#b57614
+Urxvt*color12:			#076678
+Urxvt*color13:			#8f3f71
+Urxvt*color14:			#427b58
+Urxvt*color15:			#3c3836
+
+Urxvt.background: [95]#fbf1c7
+
+Urxvt.foreground: #3c3836

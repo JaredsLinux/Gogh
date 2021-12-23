@@ -1,0 +1,22 @@
+! Profile: Chalkboard
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#c37372
+Urxvt*color2:			#72c373
+Urxvt*color3:			#c2c372
+Urxvt*color4:			#7372c3
+Urxvt*color5:			#c372c2
+Urxvt*color6:			#72c2c3
+Urxvt*color7:			#d9d9d9
+Urxvt*color8:			#323232
+Urxvt*color9:			#dbaaaa
+Urxvt*color10:			#aadbaa
+Urxvt*color11:			#dadbaa
+Urxvt*color12:			#aaaadb
+Urxvt*color13:			#dbaada
+Urxvt*color14:			#aadadb
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#29262f
+
+Urxvt.foreground: #d9e6f2

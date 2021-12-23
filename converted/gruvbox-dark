@@ -1,0 +1,22 @@
+! Profile: Gruvbox Dark
+
+Urxvt*color0:			#282828
+Urxvt*color1:			#cc241d
+Urxvt*color2:			#98971a
+Urxvt*color3:			#d79921
+Urxvt*color4:			#458588
+Urxvt*color5:			#b16286
+Urxvt*color6:			#689d6a
+Urxvt*color7:			#a89984
+Urxvt*color8:			#928374
+Urxvt*color9:			#fb4934
+Urxvt*color10:			#b8bb26
+Urxvt*color11:			#fabd2f
+Urxvt*color12:			#83a598
+Urxvt*color13:			#d3869b
+Urxvt*color14:			#8ec07c
+Urxvt*color15:			#ebdbb2
+
+Urxvt.background: [95]#282828
+
+Urxvt.foreground: #ebdbb2

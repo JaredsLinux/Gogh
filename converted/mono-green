@@ -1,0 +1,22 @@
+! Profile: mono-green
+
+Urxvt*color0:			#034000
+Urxvt*color1:			#0BFF00
+Urxvt*color2:			#0BFF00
+Urxvt*color3:			#0BFF00
+Urxvt*color4:			#0BFF00
+Urxvt*color5:			#0BFF00
+Urxvt*color6:			#0BFF00
+Urxvt*color7:			#0BFF00
+Urxvt*color8:			#0BFF00
+Urxvt*color9:			#0BFF00
+Urxvt*color10:			#0BFF00
+Urxvt*color11:			#0BFF00
+Urxvt*color12:			#0BFF00
+Urxvt*color13:			#0BFF00
+Urxvt*color14:			#0BFF00
+Urxvt*color15:			#0BFF00
+
+Urxvt.background: [95]#022B00
+
+Urxvt.foreground: #0BFF00

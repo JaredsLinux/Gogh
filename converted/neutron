@@ -1,0 +1,22 @@
+! Profile: Neutron
+
+Urxvt*color0:			#23252b
+Urxvt*color1:			#b54036
+Urxvt*color2:			#5ab977
+Urxvt*color3:			#deb566
+Urxvt*color4:			#6a7c93
+Urxvt*color5:			#a4799d
+Urxvt*color6:			#3f94a8
+Urxvt*color7:			#e6e8ef
+Urxvt*color8:			#23252b
+Urxvt*color9:			#b54036
+Urxvt*color10:			#5ab977
+Urxvt*color11:			#deb566
+Urxvt*color12:			#6a7c93
+Urxvt*color13:			#a4799d
+Urxvt*color14:			#3f94a8
+Urxvt*color15:			#ebedf2
+
+Urxvt.background: [95]#1c1e22
+
+Urxvt.foreground: #e6e8ef

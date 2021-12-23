@@ -1,0 +1,22 @@
+! Profile: mono-white
+
+Urxvt*color0:			#3B3B3B
+Urxvt*color1:			#FAFAFA
+Urxvt*color2:			#FAFAFA
+Urxvt*color3:			#FAFAFA
+Urxvt*color4:			#FAFAFA
+Urxvt*color5:			#FAFAFA
+Urxvt*color6:			#FAFAFA
+Urxvt*color7:			#FAFAFA
+Urxvt*color8:			#FAFAFA
+Urxvt*color9:			#FAFAFA
+Urxvt*color10:			#FAFAFA
+Urxvt*color11:			#FAFAFA
+Urxvt*color12:			#FAFAFA
+Urxvt*color13:			#FAFAFA
+Urxvt*color14:			#FAFAFA
+Urxvt*color15:			#FAFAFA
+
+Urxvt.background: [95]#262626
+
+Urxvt.foreground: #FAFAFA

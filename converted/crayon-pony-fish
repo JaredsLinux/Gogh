@@ -1,0 +1,22 @@
+! Profile: Crayon Pony Fish
+
+Urxvt*color0:			#2b1b1d
+Urxvt*color1:			#91002b
+Urxvt*color2:			#579524
+Urxvt*color3:			#ab311b
+Urxvt*color4:			#8c87b0
+Urxvt*color5:			#692f50
+Urxvt*color6:			#e8a866
+Urxvt*color7:			#68525a
+Urxvt*color8:			#3d2b2e
+Urxvt*color9:			#c5255d
+Urxvt*color10:			#8dff57
+Urxvt*color11:			#c8381d
+Urxvt*color12:			#cfc9ff
+Urxvt*color13:			#fc6cba
+Urxvt*color14:			#ffceaf
+Urxvt*color15:			#b0949d
+
+Urxvt.background: [95]#150707
+
+Urxvt.foreground: #68525a

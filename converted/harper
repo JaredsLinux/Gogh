@@ -1,0 +1,22 @@
+! Profile: Harper
+
+Urxvt*color0:			#010101
+Urxvt*color1:			#f8b63f
+Urxvt*color2:			#7fb5e1
+Urxvt*color3:			#d6da25
+Urxvt*color4:			#489e48
+Urxvt*color5:			#b296c6
+Urxvt*color6:			#f5bfd7
+Urxvt*color7:			#a8a49d
+Urxvt*color8:			#726e6a
+Urxvt*color9:			#f8b63f
+Urxvt*color10:			#7fb5e1
+Urxvt*color11:			#d6da25
+Urxvt*color12:			#489e48
+Urxvt*color13:			#b296c6
+Urxvt*color14:			#f5bfd7
+Urxvt*color15:			#fefbea
+
+Urxvt.background: [95]#010101
+
+Urxvt.foreground: #a8a49d

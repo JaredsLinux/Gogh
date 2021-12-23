@@ -1,0 +1,22 @@
+! Profile: Jackie Brown
+
+Urxvt*color0:			#2c1d16
+Urxvt*color1:			#ef5734
+Urxvt*color2:			#2baf2b
+Urxvt*color3:			#bebf00
+Urxvt*color4:			#246eb2
+Urxvt*color5:			#d05ec1
+Urxvt*color6:			#00acee
+Urxvt*color7:			#bfbfbf
+Urxvt*color8:			#666666
+Urxvt*color9:			#e50000
+Urxvt*color10:			#86a93e
+Urxvt*color11:			#e5e500
+Urxvt*color12:			#0000ff
+Urxvt*color13:			#e500e5
+Urxvt*color14:			#00e5e5
+Urxvt*color15:			#e5e5e5
+
+Urxvt.background: [95]#2c1d16
+
+Urxvt.foreground: #ffcc2f

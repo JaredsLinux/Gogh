@@ -1,0 +1,22 @@
+! Profile: summer-pop
+
+Urxvt*color0:			#666666
+Urxvt*color1:			#FF1E8E
+Urxvt*color2:			#8EFF1E
+Urxvt*color3:			#FFFB00
+Urxvt*color4:			#1E8EFF
+Urxvt*color5:			#E500E5
+Urxvt*color6:			#00E5E5
+Urxvt*color7:			#E5E5E5
+Urxvt*color8:			#666666
+Urxvt*color9:			#FF1E8E
+Urxvt*color10:			#8EFF1E
+Urxvt*color11:			#FFFB00
+Urxvt*color12:			#1E8EFF
+Urxvt*color13:			#E500E5
+Urxvt*color14:			#00E5E5
+Urxvt*color15:			#E5E5E5
+
+Urxvt.background: [95]#272822
+
+Urxvt.foreground: #FFFFFF

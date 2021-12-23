@@ -1,0 +1,22 @@
+! Profile: Bluloco Light
+
+Urxvt*color0:			#d5d6dd
+Urxvt*color1:			#d52753
+Urxvt*color2:			#23974a
+Urxvt*color3:			#df631c
+Urxvt*color4:			#275fe4
+Urxvt*color5:			#823ff1
+Urxvt*color6:			#27618d
+Urxvt*color7:			#000000
+Urxvt*color8:			#e4e5ed
+Urxvt*color9:			#ff6480
+Urxvt*color10:			#3cbc66
+Urxvt*color11:			#c5a332
+Urxvt*color12:			#0099e1
+Urxvt*color13:			#ce33c0
+Urxvt*color14:			#6d93bb
+Urxvt*color15:			#26272d
+
+Urxvt.background: [95]#f9f9f9
+
+Urxvt.foreground: #383a42

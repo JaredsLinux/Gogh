@@ -1,0 +1,22 @@
+! Profile: Chalk
+
+Urxvt*color0:			#646464
+Urxvt*color1:			#F58E8E
+Urxvt*color2:			#A9D3AB
+Urxvt*color3:			#FED37E
+Urxvt*color4:			#7AABD4
+Urxvt*color5:			#D6ADD5
+Urxvt*color6:			#79D4D5
+Urxvt*color7:			#D4D4D4
+Urxvt*color8:			#646464
+Urxvt*color9:			#F58E8E
+Urxvt*color10:			#A9D3AB
+Urxvt*color11:			#FED37E
+Urxvt*color12:			#7AABD4
+Urxvt*color13:			#D6ADD5
+Urxvt*color14:			#79D4D5
+Urxvt*color15:			#D4D4D4
+
+Urxvt.background: [95]#2D2D2D
+
+Urxvt.foreground: #D4D4D4

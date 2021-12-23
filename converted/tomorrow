@@ -1,0 +1,22 @@
+! Profile: Tomorrow
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#C82828
+Urxvt*color2:			#718C00
+Urxvt*color3:			#EAB700
+Urxvt*color4:			#4171AE
+Urxvt*color5:			#8959A8
+Urxvt*color6:			#3E999F
+Urxvt*color7:			#FFFEFE
+Urxvt*color8:			#000000
+Urxvt*color9:			#C82828
+Urxvt*color10:			#708B00
+Urxvt*color11:			#E9B600
+Urxvt*color12:			#4170AE
+Urxvt*color13:			#8958A7
+Urxvt*color14:			#3D999F
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#FFFFFF
+
+Urxvt.foreground: #4D4D4C

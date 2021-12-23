@@ -1,0 +1,22 @@
+! Profile: Tokyo Night Light
+
+Urxvt*color0:			#0f0f14
+Urxvt*color1:			#8c4351
+Urxvt*color2:			#485e30
+Urxvt*color3:			#8f5e15
+Urxvt*color4:			#34548a
+Urxvt*color5:			#5a4a78
+Urxvt*color6:			#0f4b6e
+Urxvt*color7:			#343b58
+Urxvt*color8:			#9699a3
+Urxvt*color9:			#8c4351
+Urxvt*color10:			#485e30
+Urxvt*color11:			#8f5e15
+Urxvt*color12:			#34548a
+Urxvt*color13:			#5a4a78
+Urxvt*color14:			#0f4b6e
+Urxvt*color15:			#343b58
+
+Urxvt.background: [95]#d5d6db
+
+Urxvt.foreground: #565a6e

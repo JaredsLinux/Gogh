@@ -1,0 +1,22 @@
+! Profile: Adventure Time
+
+Urxvt*color0:			#050404
+Urxvt*color1:			#bd0013
+Urxvt*color2:			#4ab118
+Urxvt*color3:			#e7741e
+Urxvt*color4:			#0f4ac6
+Urxvt*color5:			#665993
+Urxvt*color6:			#70a598
+Urxvt*color7:			#f8dcc0
+Urxvt*color8:			#4e7cbf
+Urxvt*color9:			#fc5f5a
+Urxvt*color10:			#9eff6e
+Urxvt*color11:			#efc11a
+Urxvt*color12:			#1997c6
+Urxvt*color13:			#9b5953
+Urxvt*color14:			#c8faf4
+Urxvt*color15:			#f6f5fb
+
+Urxvt.background: [95]#1f1d45
+
+Urxvt.foreground: #f8dcc0

@@ -1,0 +1,22 @@
+! Profile: Solarized Darcula
+
+Urxvt*color0:			#25292a
+Urxvt*color1:			#f24840
+Urxvt*color2:			#629655
+Urxvt*color3:			#b68800
+Urxvt*color4:			#2075c7
+Urxvt*color5:			#797fd4
+Urxvt*color6:			#15968d
+Urxvt*color7:			#d2d8d9
+Urxvt*color8:			#25292a
+Urxvt*color9:			#f24840
+Urxvt*color10:			#629655
+Urxvt*color11:			#b68800
+Urxvt*color12:			#2075c7
+Urxvt*color13:			#797fd4
+Urxvt*color14:			#15968d
+Urxvt*color15:			#d2d8d9
+
+Urxvt.background: [95]#3d3f41
+
+Urxvt.foreground: #d2d8d9

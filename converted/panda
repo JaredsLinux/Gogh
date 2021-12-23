@@ -1,0 +1,22 @@
+! Profile: Panda
+
+Urxvt*color0:			#1F1F20
+Urxvt*color1:			#FB055A
+Urxvt*color2:			#26FFD4
+Urxvt*color3:			#FDAA5A
+Urxvt*color4:			#5C9FFF
+Urxvt*color5:			#FC59A6
+Urxvt*color6:			#26FFD4
+Urxvt*color7:			#F0F0F0
+Urxvt*color8:			#5C6370
+Urxvt*color9:			#FB055A
+Urxvt*color10:			#26FFD4
+Urxvt*color11:			#FEBE7E
+Urxvt*color12:			#55ADFF
+Urxvt*color13:			#FD95D0
+Urxvt*color14:			#26FFD4
+Urxvt*color15:			#F0F0F0
+
+Urxvt.background: [95]#1D1E20
+
+Urxvt.foreground: #F0F0F0

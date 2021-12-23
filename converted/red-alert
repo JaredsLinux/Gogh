@@ -1,0 +1,22 @@
+! Profile: Red Alert
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#d62e4e
+Urxvt*color2:			#71be6b
+Urxvt*color3:			#beb86b
+Urxvt*color4:			#489bee
+Urxvt*color5:			#e979d7
+Urxvt*color6:			#6bbeb8
+Urxvt*color7:			#d6d6d6
+Urxvt*color8:			#262626
+Urxvt*color9:			#e02553
+Urxvt*color10:			#aff08c
+Urxvt*color11:			#dfddb7
+Urxvt*color12:			#65aaf1
+Urxvt*color13:			#ddb7df
+Urxvt*color14:			#b7dfdd
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#762423
+
+Urxvt.foreground: #ffffff

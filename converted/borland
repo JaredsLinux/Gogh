@@ -1,0 +1,22 @@
+! Profile: Borland
+
+Urxvt*color0:			#4f4f4f
+Urxvt*color1:			#ff6c60
+Urxvt*color2:			#a8ff60
+Urxvt*color3:			#ffffb6
+Urxvt*color4:			#96cbfe
+Urxvt*color5:			#ff73fd
+Urxvt*color6:			#c6c5fe
+Urxvt*color7:			#eeeeee
+Urxvt*color8:			#7c7c7c
+Urxvt*color9:			#ffb6b0
+Urxvt*color10:			#ceffac
+Urxvt*color11:			#ffffcc
+Urxvt*color12:			#b5dcff
+Urxvt*color13:			#ff9cfe
+Urxvt*color14:			#dfdffe
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#0000a4
+
+Urxvt.foreground: #ffff4e

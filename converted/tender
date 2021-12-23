@@ -1,0 +1,22 @@
+! Profile: Tender
+
+Urxvt*color0:			#1d1d1d
+Urxvt*color1:			#c5152f
+Urxvt*color2:			#c9d05c
+Urxvt*color3:			#ffc24b
+Urxvt*color4:			#b3deef
+Urxvt*color5:			#d3b987
+Urxvt*color6:			#73cef4
+Urxvt*color7:			#eeeeee
+Urxvt*color8:			#323232
+Urxvt*color9:			#f43753
+Urxvt*color10:			#d9e066
+Urxvt*color11:			#facc72
+Urxvt*color12:			#c0eafb
+Urxvt*color13:			#efd093
+Urxvt*color14:			#a1d6ec
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#282828
+
+Urxvt.foreground: #EEEEEE

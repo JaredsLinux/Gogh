@@ -1,0 +1,22 @@
+! Profile: Ayu Light
+
+Urxvt*color0:			#575F66
+Urxvt*color1:			#F51818
+Urxvt*color2:			#86B300
+Urxvt*color3:			#F2AE49
+Urxvt*color4:			#399EE6
+Urxvt*color5:			#A37ACC
+Urxvt*color6:			#4CBF99
+Urxvt*color7:			#FAFAFA
+Urxvt*color8:			#8A9199
+Urxvt*color9:			#F51818
+Urxvt*color10:			#86B300
+Urxvt*color11:			#F2AE49
+Urxvt*color12:			#399EE6
+Urxvt*color13:			#A37ACC
+Urxvt*color14:			#4CBF99
+Urxvt*color15:			#FAFAFA
+
+Urxvt.background: [95]#FAFAFA
+
+Urxvt.foreground: #575F66

@@ -1,0 +1,22 @@
+! Profile: Lavandula
+
+Urxvt*color0:			#230046
+Urxvt*color1:			#7d1625
+Urxvt*color2:			#337e6f
+Urxvt*color3:			#7f6f49
+Urxvt*color4:			#4f4a7f
+Urxvt*color5:			#5a3f7f
+Urxvt*color6:			#58777f
+Urxvt*color7:			#736e7d
+Urxvt*color8:			#372d46
+Urxvt*color9:			#e05167
+Urxvt*color10:			#52e0c4
+Urxvt*color11:			#e0c386
+Urxvt*color12:			#8e87e0
+Urxvt*color13:			#a776e0
+Urxvt*color14:			#9ad4e0
+Urxvt*color15:			#8c91fa
+
+Urxvt.background: [95]#050014
+
+Urxvt.foreground: #736e7d

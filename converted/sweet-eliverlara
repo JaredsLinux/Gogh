@@ -1,0 +1,22 @@
+! Profile: sweet-eliverlara
+
+Urxvt*color0:			#282C34
+Urxvt*color1:			#ED254E
+Urxvt*color2:			#71F79F
+Urxvt*color3:			#F9DC5C
+Urxvt*color4:			#7CB7FF
+Urxvt*color5:			#C74DED
+Urxvt*color6:			#00C1E4
+Urxvt*color7:			#DCDFE4
+Urxvt*color8:			#282C34
+Urxvt*color9:			#ED254E
+Urxvt*color10:			#71F79F
+Urxvt*color11:			#F9DC5C
+Urxvt*color12:			#7CB7FF
+Urxvt*color13:			#C74DED
+Urxvt*color14:			#00C1E4
+Urxvt*color15:			#DCDFE4
+
+Urxvt.background: [95]#282C34
+
+Urxvt.foreground: #C3C7D1

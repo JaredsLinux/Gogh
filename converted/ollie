@@ -1,0 +1,22 @@
+! Profile: Ollie
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#ac2e31
+Urxvt*color2:			#31ac61
+Urxvt*color3:			#ac4300
+Urxvt*color4:			#2d57ac
+Urxvt*color5:			#b08528
+Urxvt*color6:			#1fa6ac
+Urxvt*color7:			#8a8eac
+Urxvt*color8:			#5b3725
+Urxvt*color9:			#ff3d48
+Urxvt*color10:			#3bff99
+Urxvt*color11:			#ff5e1e
+Urxvt*color12:			#4488ff
+Urxvt*color13:			#ffc21d
+Urxvt*color14:			#1ffaff
+Urxvt*color15:			#5b6ea7
+
+Urxvt.background: [95]#222125
+
+Urxvt.foreground: #8a8dae

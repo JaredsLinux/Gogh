@@ -1,0 +1,22 @@
+! Profile: Mona Lisa
+
+Urxvt*color0:			#351b0e
+Urxvt*color1:			#9b291c
+Urxvt*color2:			#636232
+Urxvt*color3:			#c36e28
+Urxvt*color4:			#515c5d
+Urxvt*color5:			#9b1d29
+Urxvt*color6:			#588056
+Urxvt*color7:			#f7d75c
+Urxvt*color8:			#874228
+Urxvt*color9:			#ff4331
+Urxvt*color10:			#b4b264
+Urxvt*color11:			#ff9566
+Urxvt*color12:			#9eb2b4
+Urxvt*color13:			#ff5b6a
+Urxvt*color14:			#8acd8f
+Urxvt*color15:			#ffe598
+
+Urxvt.background: [95]#120b0d
+
+Urxvt.foreground: #f7d66a

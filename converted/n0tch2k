@@ -1,0 +1,22 @@
+! Profile: N0tch2k
+
+Urxvt*color0:			#383838
+Urxvt*color1:			#a95551
+Urxvt*color2:			#666666
+Urxvt*color3:			#a98051
+Urxvt*color4:			#657d3e
+Urxvt*color5:			#767676
+Urxvt*color6:			#c9c9c9
+Urxvt*color7:			#d0b8a3
+Urxvt*color8:			#474747
+Urxvt*color9:			#a97775
+Urxvt*color10:			#8c8c8c
+Urxvt*color11:			#a99175
+Urxvt*color12:			#98bd5e
+Urxvt*color13:			#a3a3a3
+Urxvt*color14:			#dcdcdc
+Urxvt*color15:			#d8c8bb
+
+Urxvt.background: [95]#222222
+
+Urxvt.foreground: #a0a0a0

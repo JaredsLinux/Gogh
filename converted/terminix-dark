@@ -1,0 +1,22 @@
+! Profile: Terminix Dark
+
+Urxvt*color0:			#282a2e
+Urxvt*color1:			#a54242
+Urxvt*color2:			#a1b56c
+Urxvt*color3:			#de935f
+Urxvt*color4:			#225555
+Urxvt*color5:			#85678f
+Urxvt*color6:			#5e8d87
+Urxvt*color7:			#777777
+Urxvt*color8:			#373b41
+Urxvt*color9:			#c63535
+Urxvt*color10:			#608360
+Urxvt*color11:			#fa805a
+Urxvt*color12:			#449da1
+Urxvt*color13:			#ba8baf
+Urxvt*color14:			#86c1b9
+Urxvt*color15:			#c5c8c6
+
+Urxvt.background: [95]#091116
+
+Urxvt.foreground: #868A8C

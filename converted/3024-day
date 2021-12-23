@@ -1,0 +1,22 @@
+! Profile: 3024 Day
+
+Urxvt*color0:			#090300
+Urxvt*color1:			#db2d20
+Urxvt*color2:			#01a252
+Urxvt*color3:			#fded02
+Urxvt*color4:			#01a0e4
+Urxvt*color5:			#a16a94
+Urxvt*color6:			#b5e4f4
+Urxvt*color7:			#a5a2a2
+Urxvt*color8:			#5c5855
+Urxvt*color9:			#e8bbd0
+Urxvt*color10:			#3a3432
+Urxvt*color11:			#4a4543
+Urxvt*color12:			#807d7c
+Urxvt*color13:			#d6d5d4
+Urxvt*color14:			#cdab53
+Urxvt*color15:			#f7f7f7
+
+Urxvt.background: [95]#f7f7f7
+
+Urxvt.foreground: #4a4543

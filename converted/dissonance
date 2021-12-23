@@ -1,0 +1,22 @@
+! Profile: Dissonance
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#dc322f
+Urxvt*color2:			#56db3a
+Urxvt*color3:			#ff8400
+Urxvt*color4:			#0084d4
+Urxvt*color5:			#b729d9
+Urxvt*color6:			#ccccff
+Urxvt*color7:			#ffffff
+Urxvt*color8:			#d6dbe5
+Urxvt*color9:			#dc322f
+Urxvt*color10:			#56db3a
+Urxvt*color11:			#ff8400
+Urxvt*color12:			#0084d4
+Urxvt*color13:			#b729d9
+Urxvt*color14:			#ccccff
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #ffffff

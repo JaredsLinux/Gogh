@@ -1,0 +1,22 @@
+! Profile: Clone of Ubuntu
+
+Urxvt*color0:			#2E3436
+Urxvt*color1:			#CC0000
+Urxvt*color2:			#4E9A06
+Urxvt*color3:			#C4A000
+Urxvt*color4:			#3465A4
+Urxvt*color5:			#75507B
+Urxvt*color6:			#06989A
+Urxvt*color7:			#D3D7CF
+Urxvt*color8:			#555753
+Urxvt*color9:			#EF2929
+Urxvt*color10:			#8AE234
+Urxvt*color11:			#FCE94F
+Urxvt*color12:			#729FCF
+Urxvt*color13:			#AD7FA8
+Urxvt*color14:			#34E2E2
+Urxvt*color15:			#EEEEEC
+
+Urxvt.background: [95]#300a24
+
+Urxvt.foreground: #ffffff

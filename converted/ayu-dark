@@ -1,0 +1,22 @@
+! Profile: Ayu Dark
+
+Urxvt*color0:			#0A0E14
+Urxvt*color1:			#FF3333
+Urxvt*color2:			#C2D94C
+Urxvt*color3:			#FF8F40
+Urxvt*color4:			#59C2FF
+Urxvt*color5:			#FFEE99
+Urxvt*color6:			#95E6CB
+Urxvt*color7:			#B3B1AD
+Urxvt*color8:			#4D5566
+Urxvt*color9:			#FF3333
+Urxvt*color10:			#C2D94C
+Urxvt*color11:			#FF8F40
+Urxvt*color12:			#59C2FF
+Urxvt*color13:			#FFEE99
+Urxvt*color14:			#95E6CB
+Urxvt*color15:			#B3B1AD
+
+Urxvt.background: [95]#0A0E14
+
+Urxvt.foreground: #B3B1AD

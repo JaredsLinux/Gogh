@@ -1,0 +1,22 @@
+! Profile: Lunaria Eclipse
+
+Urxvt*color0:			#323F46
+Urxvt*color1:			#83615B
+Urxvt*color2:			#7F9781
+Urxvt*color3:			#A69875
+Urxvt*color4:			#53516F
+Urxvt*color5:			#856880
+Urxvt*color6:			#7D96B2
+Urxvt*color7:			#C9CDD7
+Urxvt*color8:			#3D4950
+Urxvt*color9:			#BA9088
+Urxvt*color10:			#BEDBC1
+Urxvt*color11:			#F1DFB4
+Urxvt*color12:			#767495
+Urxvt*color13:			#BE9CB8
+Urxvt*color14:			#BCDBFF
+Urxvt*color15:			#DFE2ED
+
+Urxvt.background: [95]#323F46
+
+Urxvt.foreground: #C9CDD7

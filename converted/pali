@@ -1,0 +1,22 @@
+! Profile: Pali
+
+Urxvt*color0:			#0a0a0a
+Urxvt*color1:			#ab8f74
+Urxvt*color2:			#74ab8f
+Urxvt*color3:			#8fab74
+Urxvt*color4:			#8f74ab
+Urxvt*color5:			#ab748f
+Urxvt*color6:			#748fab
+Urxvt*color7:			#F2F2F2
+Urxvt*color8:			#5D5D5D
+Urxvt*color9:			#FF1D62
+Urxvt*color10:			#9cc3af
+Urxvt*color11:			#FFD00A
+Urxvt*color12:			#af9cc3
+Urxvt*color13:			#FF1D62
+Urxvt*color14:			#4BB8FD
+Urxvt*color15:			#A020F0
+
+Urxvt.background: [95]#232E37
+
+Urxvt.foreground: #d9e6f2

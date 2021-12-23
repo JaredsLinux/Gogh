@@ -1,0 +1,22 @@
+! Profile: Pixiefloss
+
+Urxvt*color0:			#2f2942
+Urxvt*color1:			#ff857f
+Urxvt*color2:			#48b685
+Urxvt*color3:			#e6c000
+Urxvt*color4:			#ae81ff
+Urxvt*color5:			#ef6155
+Urxvt*color6:			#c2ffdf
+Urxvt*color7:			#f8f8f2
+Urxvt*color8:			#75507b
+Urxvt*color9:			#f1568e
+Urxvt*color10:			#5adba2
+Urxvt*color11:			#d5a425
+Urxvt*color12:			#c5a3ff
+Urxvt*color13:			#ef6155
+Urxvt*color14:			#c2ffff
+Urxvt*color15:			#f8f8f0
+
+Urxvt.background: [95]#241f33
+
+Urxvt.foreground: #d1cae8

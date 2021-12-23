@@ -1,0 +1,22 @@
+! Profile: Treehouse
+
+Urxvt*color0:			#321300
+Urxvt*color1:			#b2270e
+Urxvt*color2:			#44a900
+Urxvt*color3:			#aa820c
+Urxvt*color4:			#58859a
+Urxvt*color5:			#97363d
+Urxvt*color6:			#b25a1e
+Urxvt*color7:			#786b53
+Urxvt*color8:			#433626
+Urxvt*color9:			#ed5d20
+Urxvt*color10:			#55f238
+Urxvt*color11:			#f2b732
+Urxvt*color12:			#85cfed
+Urxvt*color13:			#e14c5a
+Urxvt*color14:			#f07d14
+Urxvt*color15:			#ffc800
+
+Urxvt.background: [95]#191919
+
+Urxvt.foreground: #786b53

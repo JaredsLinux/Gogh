@@ -1,0 +1,22 @@
+! Profile: Smyck
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#C75646
+Urxvt*color2:			#8EB33B
+Urxvt*color3:			#D0B03C
+Urxvt*color4:			#72B3CC
+Urxvt*color5:			#C8A0D1
+Urxvt*color6:			#218693
+Urxvt*color7:			#B0B0B0
+Urxvt*color8:			#5D5D5D
+Urxvt*color9:			#E09690
+Urxvt*color10:			#CDEE69
+Urxvt*color11:			#FFE377
+Urxvt*color12:			#9CD9F0
+Urxvt*color13:			#FBB1F9
+Urxvt*color14:			#77DFD8
+Urxvt*color15:			#F7F7F7
+
+Urxvt.background: [95]#242424
+
+Urxvt.foreground: #F7F7F7

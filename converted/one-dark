@@ -1,0 +1,22 @@
+! Profile: One Dark
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#E06C75
+Urxvt*color2:			#98C379
+Urxvt*color3:			#D19A66
+Urxvt*color4:			#61AFEF
+Urxvt*color5:			#C678DD
+Urxvt*color6:			#56B6C2
+Urxvt*color7:			#ABB2BF
+Urxvt*color8:			#5C6370
+Urxvt*color9:			#E06C75
+Urxvt*color10:			#98C379
+Urxvt*color11:			#D19A66
+Urxvt*color12:			#61AFEF
+Urxvt*color13:			#C678DD
+Urxvt*color14:			#56B6C2
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#1E2127
+
+Urxvt.foreground: #5C6370

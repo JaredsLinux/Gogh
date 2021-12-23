@@ -1,0 +1,22 @@
+! Profile: Wryan
+
+Urxvt*color0:			#333333
+Urxvt*color1:			#8c4665
+Urxvt*color2:			#287373
+Urxvt*color3:			#7c7c99
+Urxvt*color4:			#395573
+Urxvt*color5:			#5e468c
+Urxvt*color6:			#31658c
+Urxvt*color7:			#899ca1
+Urxvt*color8:			#3d3d3d
+Urxvt*color9:			#bf4d80
+Urxvt*color10:			#53a6a6
+Urxvt*color11:			#9e9ecb
+Urxvt*color12:			#477ab3
+Urxvt*color13:			#7e62b3
+Urxvt*color14:			#6096bf
+Urxvt*color15:			#c0c0c0
+
+Urxvt.background: [95]#101010
+
+Urxvt.foreground: #999993

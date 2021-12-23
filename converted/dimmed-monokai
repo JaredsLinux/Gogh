@@ -1,0 +1,22 @@
+! Profile: Dimmed Monokai
+
+Urxvt*color0:			#3a3d43
+Urxvt*color1:			#be3f48
+Urxvt*color2:			#879a3b
+Urxvt*color3:			#c5a635
+Urxvt*color4:			#4f76a1
+Urxvt*color5:			#855c8d
+Urxvt*color6:			#578fa4
+Urxvt*color7:			#b9bcba
+Urxvt*color8:			#888987
+Urxvt*color9:			#fb001f
+Urxvt*color10:			#0f722f
+Urxvt*color11:			#c47033
+Urxvt*color12:			#186de3
+Urxvt*color13:			#fb0067
+Urxvt*color14:			#2e706d
+Urxvt*color15:			#fdffb9
+
+Urxvt.background: [95]#1f1f1f
+
+Urxvt.foreground: #b9bcba

@@ -1,0 +1,22 @@
+! Profile: Flat Remix
+
+Urxvt*color0:			#1F2229
+Urxvt*color1:			#D41919
+Urxvt*color2:			#5EBDAB
+Urxvt*color3:			#FEA44C
+Urxvt*color4:			#367bf0
+Urxvt*color5:			#BF2E5D
+Urxvt*color6:			#49AEE6
+Urxvt*color7:			#E6E6E6
+Urxvt*color8:			#8C42AB
+Urxvt*color9:			#EC0101
+Urxvt*color10:			#47D4B9
+Urxvt*color11:			#FF8A18
+Urxvt*color12:			#277FFF
+Urxvt*color13:			#D71655
+Urxvt*color14:			#05A1F7
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#272a34
+
+Urxvt.foreground: #FFFFFF

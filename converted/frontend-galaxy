@@ -1,0 +1,22 @@
+! Profile: Frontend Galaxy
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#f9555f
+Urxvt*color2:			#21b089
+Urxvt*color3:			#fef02a
+Urxvt*color4:			#589df6
+Urxvt*color5:			#944d95
+Urxvt*color6:			#1f9ee7
+Urxvt*color7:			#bbbbbb
+Urxvt*color8:			#555555
+Urxvt*color9:			#fa8c8f
+Urxvt*color10:			#35bb9a
+Urxvt*color11:			#ffff55
+Urxvt*color12:			#589df6
+Urxvt*color13:			#e75699
+Urxvt*color14:			#3979bc
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#1d2837
+
+Urxvt.foreground: #ffffff

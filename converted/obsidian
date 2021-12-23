@@ -1,0 +1,22 @@
+! Profile: Obsidian
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#a60001
+Urxvt*color2:			#00bb00
+Urxvt*color3:			#fecd22
+Urxvt*color4:			#3a9bdb
+Urxvt*color5:			#bb00bb
+Urxvt*color6:			#00bbbb
+Urxvt*color7:			#bbbbbb
+Urxvt*color8:			#555555
+Urxvt*color9:			#ff0003
+Urxvt*color10:			#93c863
+Urxvt*color11:			#fef874
+Urxvt*color12:			#a1d7ff
+Urxvt*color13:			#ff55ff
+Urxvt*color14:			#55ffff
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#283033
+
+Urxvt.foreground: #cdcdcd

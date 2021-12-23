@@ -1,0 +1,22 @@
+! Profile: gotham
+
+Urxvt*color0:			#0a0f14
+Urxvt*color1:			#c33027
+Urxvt*color2:			#26a98b
+Urxvt*color3:			#edb54b
+Urxvt*color4:			#195465
+Urxvt*color5:			#4e5165
+Urxvt*color6:			#33859d
+Urxvt*color7:			#98d1ce
+Urxvt*color8:			#10151b
+Urxvt*color9:			#d26939
+Urxvt*color10:			#081f2d
+Urxvt*color11:			#245361
+Urxvt*color12:			#093748
+Urxvt*color13:			#888ba5
+Urxvt*color14:			#599caa
+Urxvt*color15:			#d3ebe9
+
+Urxvt.background: [95]#0a0f14
+
+Urxvt.foreground: #98d1ce

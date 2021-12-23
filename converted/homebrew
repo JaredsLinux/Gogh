@@ -1,0 +1,22 @@
+! Profile: Homebrew
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#990000
+Urxvt*color2:			#00a600
+Urxvt*color3:			#999900
+Urxvt*color4:			#0000b2
+Urxvt*color5:			#b200b2
+Urxvt*color6:			#00a6b2
+Urxvt*color7:			#bfbfbf
+Urxvt*color8:			#666666
+Urxvt*color9:			#e50000
+Urxvt*color10:			#00d900
+Urxvt*color11:			#e5e500
+Urxvt*color12:			#0000ff
+Urxvt*color13:			#e500e5
+Urxvt*color14:			#00e5e5
+Urxvt*color15:			#e5e5e5
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #00ff00

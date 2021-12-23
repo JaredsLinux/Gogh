@@ -1,0 +1,22 @@
+! Profile: Srcery
+
+Urxvt*color0:			#1C1B19
+Urxvt*color1:			#FF3128
+Urxvt*color2:			#519F50
+Urxvt*color3:			#FBB829
+Urxvt*color4:			#5573A3
+Urxvt*color5:			#E02C6D
+Urxvt*color6:			#0AAEB3
+Urxvt*color7:			#918175
+Urxvt*color8:			#2D2B28
+Urxvt*color9:			#F75341
+Urxvt*color10:			#98BC37
+Urxvt*color11:			#FED06E
+Urxvt*color12:			#8EB2F7
+Urxvt*color13:			#E35682
+Urxvt*color14:			#53FDE9
+Urxvt*color15:			#FCE8C3
+
+Urxvt.background: [95]#282828
+
+Urxvt.foreground: #ebdbb2

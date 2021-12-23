@@ -1,0 +1,22 @@
+! Profile: Bim
+
+Urxvt*color0:			#2c2423
+Urxvt*color1:			#f557a0
+Urxvt*color2:			#a9ee55
+Urxvt*color3:			#f5a255
+Urxvt*color4:			#5ea2ec
+Urxvt*color5:			#a957ec
+Urxvt*color6:			#5eeea0
+Urxvt*color7:			#918988
+Urxvt*color8:			#918988
+Urxvt*color9:			#f579b2
+Urxvt*color10:			#bbee78
+Urxvt*color11:			#f5b378
+Urxvt*color12:			#81b3ec
+Urxvt*color13:			#bb79ec
+Urxvt*color14:			#81eeb2
+Urxvt*color15:			#f5eeec
+
+Urxvt.background: [95]#012849
+
+Urxvt.foreground: #a9bed8

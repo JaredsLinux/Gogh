@@ -1,0 +1,22 @@
+! Profile: Vag
+
+Urxvt*color0:			#303030
+Urxvt*color1:			#a87139
+Urxvt*color2:			#39a871
+Urxvt*color3:			#71a839
+Urxvt*color4:			#7139a8
+Urxvt*color5:			#a83971
+Urxvt*color6:			#3971a8
+Urxvt*color7:			#8a8a8a
+Urxvt*color8:			#494949
+Urxvt*color9:			#b0763b
+Urxvt*color10:			#3bb076
+Urxvt*color11:			#76b03b
+Urxvt*color12:			#763bb0
+Urxvt*color13:			#b03b76
+Urxvt*color14:			#3b76b0
+Urxvt*color15:			#cfcfcf
+
+Urxvt.background: [95]#191f1d
+
+Urxvt.foreground: #d9e6f2

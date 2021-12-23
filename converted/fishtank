@@ -1,0 +1,22 @@
+! Profile: Fishtank
+
+Urxvt*color0:			#03073c
+Urxvt*color1:			#c6004a
+Urxvt*color2:			#acf157
+Urxvt*color3:			#fecd5e
+Urxvt*color4:			#525fb8
+Urxvt*color5:			#986f82
+Urxvt*color6:			#968763
+Urxvt*color7:			#ecf0fc
+Urxvt*color8:			#6c5b30
+Urxvt*color9:			#da4b8a
+Urxvt*color10:			#dbffa9
+Urxvt*color11:			#fee6a9
+Urxvt*color12:			#b2befa
+Urxvt*color13:			#fda5cd
+Urxvt*color14:			#a5bd86
+Urxvt*color15:			#f6ffec
+
+Urxvt.background: [95]#232537
+
+Urxvt.foreground: #ecf0fe

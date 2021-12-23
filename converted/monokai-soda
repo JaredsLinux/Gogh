@@ -1,0 +1,22 @@
+! Profile: Monokai Soda
+
+Urxvt*color0:			#1a1a1a
+Urxvt*color1:			#f4005f
+Urxvt*color2:			#98e024
+Urxvt*color3:			#fa8419
+Urxvt*color4:			#9d65ff
+Urxvt*color5:			#f4005f
+Urxvt*color6:			#58d1eb
+Urxvt*color7:			#c4c5b5
+Urxvt*color8:			#625e4c
+Urxvt*color9:			#f4005f
+Urxvt*color10:			#98e024
+Urxvt*color11:			#e0d561
+Urxvt*color12:			#9d65ff
+Urxvt*color13:			#f4005f
+Urxvt*color14:			#58d1eb
+Urxvt*color15:			#f6f6ef
+
+Urxvt.background: [95]#1a1a1a
+
+Urxvt.foreground: #c4c5b5

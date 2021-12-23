@@ -1,0 +1,22 @@
+! Profile: Wombat
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#ff615a
+Urxvt*color2:			#b1e969
+Urxvt*color3:			#ebd99c
+Urxvt*color4:			#5da9f6
+Urxvt*color5:			#e86aff
+Urxvt*color6:			#82fff7
+Urxvt*color7:			#dedacf
+Urxvt*color8:			#313131
+Urxvt*color9:			#f58c80
+Urxvt*color10:			#ddf88f
+Urxvt*color11:			#eee5b2
+Urxvt*color12:			#a5c7ff
+Urxvt*color13:			#ddaaff
+Urxvt*color14:			#b7fff9
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#171717
+
+Urxvt.foreground: #dedacf

@@ -1,0 +1,22 @@
+! Profile: Atom
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#fd5ff1
+Urxvt*color2:			#87c38a
+Urxvt*color3:			#ffd7b1
+Urxvt*color4:			#85befd
+Urxvt*color5:			#b9b6fc
+Urxvt*color6:			#85befd
+Urxvt*color7:			#e0e0e0
+Urxvt*color8:			#000000
+Urxvt*color9:			#fd5ff1
+Urxvt*color10:			#94fa36
+Urxvt*color11:			#f5ffa8
+Urxvt*color12:			#96cbfe
+Urxvt*color13:			#b9b6fc
+Urxvt*color14:			#85befd
+Urxvt*color15:			#e0e0e0
+
+Urxvt.background: [95]#161719
+
+Urxvt.foreground: #c5c8c6

@@ -1,0 +1,22 @@
+! Profile: Slate
+
+Urxvt*color0:			#222222
+Urxvt*color1:			#e2a8bf
+Urxvt*color2:			#81d778
+Urxvt*color3:			#c4c9c0
+Urxvt*color4:			#264b49
+Urxvt*color5:			#a481d3
+Urxvt*color6:			#15ab9c
+Urxvt*color7:			#02c5e0
+Urxvt*color8:			#ffffff
+Urxvt*color9:			#ffcdd9
+Urxvt*color10:			#beffa8
+Urxvt*color11:			#d0ccca
+Urxvt*color12:			#7ab0d2
+Urxvt*color13:			#c5a7d9
+Urxvt*color14:			#8cdfe0
+Urxvt*color15:			#e0e0e0
+
+Urxvt.background: [95]#222222
+
+Urxvt.foreground: #35b1d2

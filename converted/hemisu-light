@@ -1,0 +1,22 @@
+! Profile: Hemisu Light
+
+Urxvt*color0:			#777777
+Urxvt*color1:			#FF0055
+Urxvt*color2:			#739100
+Urxvt*color3:			#503D15
+Urxvt*color4:			#538091
+Urxvt*color5:			#5B345E
+Urxvt*color6:			#538091
+Urxvt*color7:			#999999
+Urxvt*color8:			#999999
+Urxvt*color9:			#D65E76
+Urxvt*color10:			#9CC700
+Urxvt*color11:			#947555
+Urxvt*color12:			#9DB3CD
+Urxvt*color13:			#A184A4
+Urxvt*color14:			#85B2AA
+Urxvt*color15:			#BABABA
+
+Urxvt.background: [95]#EFEFEF
+
+Urxvt.foreground: #444444

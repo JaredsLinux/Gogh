@@ -1,0 +1,22 @@
+! Profile: Flat
+
+Urxvt*color0:			#2c3e50
+Urxvt*color1:			#c0392b
+Urxvt*color2:			#27ae60
+Urxvt*color3:			#f39c12
+Urxvt*color4:			#2980b9
+Urxvt*color5:			#8e44ad
+Urxvt*color6:			#16a085
+Urxvt*color7:			#bdc3c7
+Urxvt*color8:			#34495e
+Urxvt*color9:			#e74c3c
+Urxvt*color10:			#2ecc71
+Urxvt*color11:			#f1c40f
+Urxvt*color12:			#3498db
+Urxvt*color13:			#9b59b6
+Urxvt*color14:			#2AA198
+Urxvt*color15:			#ecf0f1
+
+Urxvt.background: [95]#1F2D3A
+
+Urxvt.foreground: #1abc9c

@@ -1,0 +1,22 @@
+! Profile: Molokai
+
+Urxvt*color0:			#1b1d1e
+Urxvt*color1:			#7325FA
+Urxvt*color2:			#23E298
+Urxvt*color3:			#60D4DF
+Urxvt*color4:			#D08010
+Urxvt*color5:			#FF0087
+Urxvt*color6:			#D0A843
+Urxvt*color7:			#BBBBBB
+Urxvt*color8:			#555555
+Urxvt*color9:			#9D66F6
+Urxvt*color10:			#5FE0B1
+Urxvt*color11:			#6DF2FF
+Urxvt*color12:			#FFAF00
+Urxvt*color13:			#FF87AF
+Urxvt*color14:			#FFCE51
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#1b1d1e
+
+Urxvt.foreground: #BBBBBB

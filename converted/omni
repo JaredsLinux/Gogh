@@ -1,0 +1,22 @@
+! Profile: Omni
+
+Urxvt*color0:			#191622
+Urxvt*color1:			#E96379
+Urxvt*color2:			#67e480
+Urxvt*color3:			#E89E64
+Urxvt*color4:			#78D1E1
+Urxvt*color5:			#988BC7
+Urxvt*color6:			#FF79C6
+Urxvt*color7:			#ABB2BF
+Urxvt*color8:			#000000
+Urxvt*color9:			#E96379
+Urxvt*color10:			#67e480
+Urxvt*color11:			#E89E64
+Urxvt*color12:			#78D1E1
+Urxvt*color13:			#988BC7
+Urxvt*color14:			#FF79C6
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#191622
+
+Urxvt.foreground: #ABB2BF

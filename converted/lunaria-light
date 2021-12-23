@@ -1,0 +1,22 @@
+! Profile: Lunaria Light
+
+Urxvt*color0:			#3E3C3D
+Urxvt*color1:			#783C1F
+Urxvt*color2:			#497D46
+Urxvt*color3:			#8F750B
+Urxvt*color4:			#3F3566
+Urxvt*color5:			#793F62
+Urxvt*color6:			#3778A9
+Urxvt*color7:			#D5CFCC
+Urxvt*color8:			#484646
+Urxvt*color9:			#B06240
+Urxvt*color10:			#7BC175
+Urxvt*color11:			#DCB735
+Urxvt*color12:			#5C4F89
+Urxvt*color13:			#B56895
+Urxvt*color14:			#64BAFF
+Urxvt*color15:			#EBE4E1
+
+Urxvt.background: [95]#EBE4E1
+
+Urxvt.foreground: #484646

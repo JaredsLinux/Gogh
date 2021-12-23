@@ -1,0 +1,22 @@
+! Profile: Brogrammer
+
+Urxvt*color0:			#1f1f1f
+Urxvt*color1:			#f81118
+Urxvt*color2:			#2dc55e
+Urxvt*color3:			#ecba0f
+Urxvt*color4:			#2a84d2
+Urxvt*color5:			#4e5ab7
+Urxvt*color6:			#1081d6
+Urxvt*color7:			#d6dbe5
+Urxvt*color8:			#d6dbe5
+Urxvt*color9:			#de352e
+Urxvt*color10:			#1dd361
+Urxvt*color11:			#f3bd09
+Urxvt*color12:			#1081d6
+Urxvt*color13:			#5350b9
+Urxvt*color14:			#0f7ddb
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#131313
+
+Urxvt.foreground: #d6dbe5

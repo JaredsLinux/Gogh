@@ -1,0 +1,22 @@
+! Profile: Sea Shells
+
+Urxvt*color0:			#17384c
+Urxvt*color1:			#d15123
+Urxvt*color2:			#027c9b
+Urxvt*color3:			#fca02f
+Urxvt*color4:			#1e4950
+Urxvt*color5:			#68d4f1
+Urxvt*color6:			#50a3b5
+Urxvt*color7:			#deb88d
+Urxvt*color8:			#434b53
+Urxvt*color9:			#d48678
+Urxvt*color10:			#628d98
+Urxvt*color11:			#fdd39f
+Urxvt*color12:			#1bbcdd
+Urxvt*color13:			#bbe3ee
+Urxvt*color14:			#87acb4
+Urxvt*color15:			#fee4ce
+
+Urxvt.background: [95]#09141b
+
+Urxvt.foreground: #deb88d

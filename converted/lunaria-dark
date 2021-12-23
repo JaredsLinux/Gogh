@@ -1,0 +1,22 @@
+! Profile: Lunaria Dark
+
+Urxvt*color0:			#36464E
+Urxvt*color1:			#846560
+Urxvt*color2:			#809984
+Urxvt*color3:			#A79A79
+Urxvt*color4:			#555673
+Urxvt*color5:			#866C83
+Urxvt*color6:			#7E98B4
+Urxvt*color7:			#CACED8
+Urxvt*color8:			#404F56
+Urxvt*color9:			#BB928B
+Urxvt*color10:			#BFDCC2
+Urxvt*color11:			#F1DFB6
+Urxvt*color12:			#777798
+Urxvt*color13:			#BF9DB9
+Urxvt*color14:			#BDDCFF
+Urxvt*color15:			#DFE2ED
+
+Urxvt.background: [95]#36464E
+
+Urxvt.foreground: #CACED8

@@ -1,0 +1,22 @@
+! Profile: Mathias
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#e52222
+Urxvt*color2:			#a6e32d
+Urxvt*color3:			#fc951e
+Urxvt*color4:			#c48dff
+Urxvt*color5:			#fa2573
+Urxvt*color6:			#67d9f0
+Urxvt*color7:			#f2f2f2
+Urxvt*color8:			#555555
+Urxvt*color9:			#ff5555
+Urxvt*color10:			#55ff55
+Urxvt*color11:			#ffff55
+Urxvt*color12:			#5555ff
+Urxvt*color13:			#ff55ff
+Urxvt*color14:			#55ffff
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #bbbbbb

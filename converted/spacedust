@@ -1,0 +1,22 @@
+! Profile: Spacedust
+
+Urxvt*color0:			#6e5346
+Urxvt*color1:			#e35b00
+Urxvt*color2:			#5cab96
+Urxvt*color3:			#e3cd7b
+Urxvt*color4:			#0f548b
+Urxvt*color5:			#e35b00
+Urxvt*color6:			#06afc7
+Urxvt*color7:			#f0f1ce
+Urxvt*color8:			#684c31
+Urxvt*color9:			#ff8a3a
+Urxvt*color10:			#aecab8
+Urxvt*color11:			#ffc878
+Urxvt*color12:			#67a0ce
+Urxvt*color13:			#ff8a3a
+Urxvt*color14:			#83a7b4
+Urxvt*color15:			#fefff1
+
+Urxvt.background: [95]#0a1e24
+
+Urxvt.foreground: #ecf0c1

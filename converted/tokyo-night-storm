@@ -1,0 +1,22 @@
+! Profile: Tokyo Night Storm
+
+Urxvt*color0:			#414868
+Urxvt*color1:			#f7768e
+Urxvt*color2:			#9ece6a
+Urxvt*color3:			#e0af68
+Urxvt*color4:			#7aa2f7
+Urxvt*color5:			#bb9af7
+Urxvt*color6:			#7dcfff
+Urxvt*color7:			#c0caf5
+Urxvt*color8:			#414868
+Urxvt*color9:			#f7768e
+Urxvt*color10:			#9ece6a
+Urxvt*color11:			#e0af68
+Urxvt*color12:			#7aa2f7
+Urxvt*color13:			#bb9af7
+Urxvt*color14:			#7dcfff
+Urxvt*color15:			#c0caf5
+
+Urxvt.background: [95]#24283b
+
+Urxvt.foreground: #c0caf5

@@ -1,0 +1,22 @@
+! Profile: Solarized Light
+
+Urxvt*color0:			#073642
+Urxvt*color1:			#DC322F
+Urxvt*color2:			#859900
+Urxvt*color3:			#B58900
+Urxvt*color4:			#268BD2
+Urxvt*color5:			#D33682
+Urxvt*color6:			#2AA198
+Urxvt*color7:			#EEE8D5
+Urxvt*color8:			#002B36
+Urxvt*color9:			#CB4B16
+Urxvt*color10:			#586E75
+Urxvt*color11:			#657B83
+Urxvt*color12:			#839496
+Urxvt*color13:			#6C71C4
+Urxvt*color14:			#93A1A1
+Urxvt*color15:			#FDF6E3
+
+Urxvt.background: [95]#FDF6E3
+
+Urxvt.foreground: #657B83

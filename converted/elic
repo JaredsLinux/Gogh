@@ -1,0 +1,22 @@
+! Profile: Elic
+
+Urxvt*color0:			#303030
+Urxvt*color1:			#e1321a
+Urxvt*color2:			#6ab017
+Urxvt*color3:			#ffc005
+Urxvt*color4:			#729FCF
+Urxvt*color5:			#ec0048
+Urxvt*color6:			#f2f2f2
+Urxvt*color7:			#2aa7e7
+Urxvt*color8:			#5d5d5d
+Urxvt*color9:			#ff361e
+Urxvt*color10:			#7bc91f
+Urxvt*color11:			#ffd00a
+Urxvt*color12:			#0071ff
+Urxvt*color13:			#ff1d62
+Urxvt*color14:			#4bb8fd
+Urxvt*color15:			#a020f0
+
+Urxvt.background: [95]#4A453E
+
+Urxvt.foreground: #f2f2f2

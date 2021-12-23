@@ -1,0 +1,22 @@
+! Profile: Azu
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#ac6d74
+Urxvt*color2:			#74ac6d
+Urxvt*color3:			#aca46d
+Urxvt*color4:			#6d74ac
+Urxvt*color5:			#a46dac
+Urxvt*color6:			#6daca4
+Urxvt*color7:			#e6e6e6
+Urxvt*color8:			#262626
+Urxvt*color9:			#d6b8bc
+Urxvt*color10:			#bcd6b8
+Urxvt*color11:			#d6d3b8
+Urxvt*color12:			#b8bcd6
+Urxvt*color13:			#d3b8d6
+Urxvt*color14:			#b8d6d3
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#09111a
+
+Urxvt.foreground: #d9e6f2

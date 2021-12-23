@@ -1,0 +1,22 @@
+! Profile: Japanesque
+
+Urxvt*color0:			#343935
+Urxvt*color1:			#cf3f61
+Urxvt*color2:			#7bb75b
+Urxvt*color3:			#e9b32a
+Urxvt*color4:			#4c9ad4
+Urxvt*color5:			#a57fc4
+Urxvt*color6:			#389aad
+Urxvt*color7:			#fafaf6
+Urxvt*color8:			#595b59
+Urxvt*color9:			#d18fa6
+Urxvt*color10:			#767f2c
+Urxvt*color11:			#78592f
+Urxvt*color12:			#135979
+Urxvt*color13:			#604291
+Urxvt*color14:			#76bbca
+Urxvt*color15:			#b2b5ae
+
+Urxvt.background: [95]#1e1e1e
+
+Urxvt.foreground: #f7f6ec

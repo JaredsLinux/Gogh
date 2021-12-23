@@ -1,0 +1,22 @@
+! Profile: Teerb
+
+Urxvt*color0:			#1c1c1c
+Urxvt*color1:			#d68686
+Urxvt*color2:			#aed686
+Urxvt*color3:			#d7af87
+Urxvt*color4:			#86aed6
+Urxvt*color5:			#d6aed6
+Urxvt*color6:			#8adbb4
+Urxvt*color7:			#d0d0d0
+Urxvt*color8:			#1c1c1c
+Urxvt*color9:			#d68686
+Urxvt*color10:			#aed686
+Urxvt*color11:			#e4c9af
+Urxvt*color12:			#86aed6
+Urxvt*color13:			#d6aed6
+Urxvt*color14:			#b1e7dd
+Urxvt*color15:			#efefef
+
+Urxvt.background: [95]#262626
+
+Urxvt.foreground: #d0d0d0

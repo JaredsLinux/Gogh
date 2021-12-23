@@ -1,0 +1,22 @@
+! Profile: PaperColor Light
+
+Urxvt*color0:			#EEEEEE
+Urxvt*color1:			#AF0000
+Urxvt*color2:			#008700
+Urxvt*color3:			#5F8700
+Urxvt*color4:			#0087AF
+Urxvt*color5:			#878787
+Urxvt*color6:			#005F87
+Urxvt*color7:			#444444
+Urxvt*color8:			#BCBCBC
+Urxvt*color9:			#D70000
+Urxvt*color10:			#D70087
+Urxvt*color11:			#8700AF
+Urxvt*color12:			#D75F00
+Urxvt*color13:			#D75F00
+Urxvt*color14:			#005FAF
+Urxvt*color15:			#005F87
+
+Urxvt.background: [95]#EEEEEE
+
+Urxvt.foreground: #444444

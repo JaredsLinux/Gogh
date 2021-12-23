@@ -1,0 +1,22 @@
+! Profile: Paul Millr
+
+Urxvt*color0:			#2a2a2a
+Urxvt*color1:			#ff0000
+Urxvt*color2:			#79ff0f
+Urxvt*color3:			#d3bf00
+Urxvt*color4:			#396bd7
+Urxvt*color5:			#b449be
+Urxvt*color6:			#66ccff
+Urxvt*color7:			#bbbbbb
+Urxvt*color8:			#666666
+Urxvt*color9:			#ff0080
+Urxvt*color10:			#66ff66
+Urxvt*color11:			#f3d64e
+Urxvt*color12:			#709aed
+Urxvt*color13:			#db67e6
+Urxvt*color14:			#7adff2
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #f2f2f2

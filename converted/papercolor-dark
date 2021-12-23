@@ -1,0 +1,22 @@
+! Profile: PaperColor Dark
+
+Urxvt*color0:			#1C1C1C
+Urxvt*color1:			#AF005F
+Urxvt*color2:			#5FAF00
+Urxvt*color3:			#D7AF5F
+Urxvt*color4:			#5FAFD7
+Urxvt*color5:			#808080
+Urxvt*color6:			#D7875F
+Urxvt*color7:			#D0D0D0
+Urxvt*color8:			#585858
+Urxvt*color9:			#5FAF5F
+Urxvt*color10:			#AFD700
+Urxvt*color11:			#AF87D7
+Urxvt*color12:			#FFAF00
+Urxvt*color13:			#FF5FAF
+Urxvt*color14:			#00AFAF
+Urxvt*color15:			#5F8787
+
+Urxvt.background: [95]#1C1C1C
+
+Urxvt.foreground: #D0D0D0

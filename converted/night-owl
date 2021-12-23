@@ -1,0 +1,22 @@
+! Profile: Night Owl
+
+Urxvt*color0:			#011627
+Urxvt*color1:			#EF5350
+Urxvt*color2:			#22da6e
+Urxvt*color3:			#addb67
+Urxvt*color4:			#82aaff
+Urxvt*color5:			#c792ea
+Urxvt*color6:			#21c7a8
+Urxvt*color7:			#ffffff
+Urxvt*color8:			#575656
+Urxvt*color9:			#ef5350
+Urxvt*color10:			#22da6e
+Urxvt*color11:			#ffeb95
+Urxvt*color12:			#82aaff
+Urxvt*color13:			#c792ea
+Urxvt*color14:			#7fdbca
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#011627
+
+Urxvt.foreground: #d6deeb

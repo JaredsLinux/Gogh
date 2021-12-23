@@ -1,0 +1,22 @@
+! Profile: Broadcast
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#da4939
+Urxvt*color2:			#519f50
+Urxvt*color3:			#ffd24a
+Urxvt*color4:			#6d9cbe
+Urxvt*color5:			#d0d0ff
+Urxvt*color6:			#6e9cbe
+Urxvt*color7:			#ffffff
+Urxvt*color8:			#323232
+Urxvt*color9:			#ff7b6b
+Urxvt*color10:			#83d182
+Urxvt*color11:			#ffff7c
+Urxvt*color12:			#9fcef0
+Urxvt*color13:			#ffffff
+Urxvt*color14:			#a0cef0
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#2b2b2b
+
+Urxvt.foreground: #e6e1dc

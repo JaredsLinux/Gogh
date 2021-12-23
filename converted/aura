@@ -1,0 +1,22 @@
+! Profile: Aura
+
+Urxvt*color0:			#110f18
+Urxvt*color1:			#ff6767
+Urxvt*color2:			#61ffca
+Urxvt*color3:			#ffca85
+Urxvt*color4:			#a277ff
+Urxvt*color5:			#a277ff
+Urxvt*color6:			#61ffca
+Urxvt*color7:			#edecee
+Urxvt*color8:			#6d6d6d
+Urxvt*color9:			#ffca85
+Urxvt*color10:			#a277ff
+Urxvt*color11:			#ffca85
+Urxvt*color12:			#a277ff
+Urxvt*color13:			#a277ff
+Urxvt*color14:			#61ffca
+Urxvt*color15:			#edecee
+
+Urxvt.background: [95]#15141B
+
+Urxvt.foreground: #edecee

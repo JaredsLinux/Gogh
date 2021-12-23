@@ -1,0 +1,22 @@
+! Profile: mono-cyan
+
+Urxvt*color0:			#003340
+Urxvt*color1:			#00CCFF
+Urxvt*color2:			#00CCFF
+Urxvt*color3:			#00CCFF
+Urxvt*color4:			#00CCFF
+Urxvt*color5:			#00CCFF
+Urxvt*color6:			#00CCFF
+Urxvt*color7:			#00CCFF
+Urxvt*color8:			#00CCFF
+Urxvt*color9:			#00CCFF
+Urxvt*color10:			#00CCFF
+Urxvt*color11:			#00CCFF
+Urxvt*color12:			#00CCFF
+Urxvt*color13:			#00CCFF
+Urxvt*color14:			#00CCFF
+Urxvt*color15:			#00CCFF
+
+Urxvt.background: [95]#00222B
+
+Urxvt.foreground: #00CCFF

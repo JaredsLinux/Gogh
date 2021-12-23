@@ -1,0 +1,22 @@
+! Profile: Neopolitan
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#800000
+Urxvt*color2:			#61ce3c
+Urxvt*color3:			#fbde2d
+Urxvt*color4:			#253b76
+Urxvt*color5:			#ff0080
+Urxvt*color6:			#8da6ce
+Urxvt*color7:			#f8f8f8
+Urxvt*color8:			#000000
+Urxvt*color9:			#800000
+Urxvt*color10:			#61ce3c
+Urxvt*color11:			#fbde2d
+Urxvt*color12:			#253b76
+Urxvt*color13:			#ff0080
+Urxvt*color14:			#8da6ce
+Urxvt*color15:			#f8f8f8
+
+Urxvt.background: [95]#271f19
+
+Urxvt.foreground: #ffffff

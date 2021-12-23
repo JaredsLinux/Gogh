@@ -1,0 +1,22 @@
+! Profile: Horizon Bright
+
+Urxvt*color0:			#16161C
+Urxvt*color1:			#DA103F
+Urxvt*color2:			#1EB980
+Urxvt*color3:			#F6661E
+Urxvt*color4:			#26BBD9
+Urxvt*color5:			#EE64AE
+Urxvt*color6:			#1D8991
+Urxvt*color7:			#FADAD1
+Urxvt*color8:			#1A1C23
+Urxvt*color9:			#F43E5C
+Urxvt*color10:			#07DA8C
+Urxvt*color11:			#F77D26
+Urxvt*color12:			#3FC6DE
+Urxvt*color13:			#F075B7
+Urxvt*color14:			#1EAEAE
+Urxvt*color15:			#FDF0ED
+
+Urxvt.background: [95]#FDF0ED
+
+Urxvt.foreground: #1C1E26

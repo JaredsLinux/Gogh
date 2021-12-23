@@ -1,0 +1,22 @@
+! Profile: Solarized Dark Higher Contrast
+
+Urxvt*color0:			#002831
+Urxvt*color1:			#d11c24
+Urxvt*color2:			#6cbe6c
+Urxvt*color3:			#a57706
+Urxvt*color4:			#2176c7
+Urxvt*color5:			#c61c6f
+Urxvt*color6:			#259286
+Urxvt*color7:			#eae3cb
+Urxvt*color8:			#006488
+Urxvt*color9:			#f5163b
+Urxvt*color10:			#51ef84
+Urxvt*color11:			#b27e28
+Urxvt*color12:			#178ec8
+Urxvt*color13:			#e24d8e
+Urxvt*color14:			#00b39e
+Urxvt*color15:			#fcf4dc
+
+Urxvt.background: [95]#001e27
+
+Urxvt.foreground: #9cc2c3

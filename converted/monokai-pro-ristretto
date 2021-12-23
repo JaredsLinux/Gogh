@@ -1,0 +1,22 @@
+! Profile: Monokai Pro Ristretto
+
+Urxvt*color0:			#3E3838
+Urxvt*color1:			#DF7484
+Urxvt*color2:			#BBD87E
+Urxvt*color3:			#EDCE73
+Urxvt*color4:			#DC9373
+Urxvt*color5:			#A9AAE9
+Urxvt*color6:			#A4D7CC
+Urxvt*color7:			#FBF2F3
+Urxvt*color8:			#70696A
+Urxvt*color9:			#DF7484
+Urxvt*color10:			#BBD87E
+Urxvt*color11:			#EDCE73
+Urxvt*color12:			#DC9373
+Urxvt*color13:			#A9AAE9
+Urxvt*color14:			#A4D7CC
+Urxvt*color15:			#FBF2F3
+
+Urxvt.background: [95]#3E3838
+
+Urxvt.foreground: #FBF2F3

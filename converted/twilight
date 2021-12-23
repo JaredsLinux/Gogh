@@ -1,0 +1,22 @@
+! Profile: Twilight
+
+Urxvt*color0:			#141414
+Urxvt*color1:			#c06d44
+Urxvt*color2:			#afb97a
+Urxvt*color3:			#c2a86c
+Urxvt*color4:			#44474a
+Urxvt*color5:			#b4be7c
+Urxvt*color6:			#778385
+Urxvt*color7:			#ffffd4
+Urxvt*color8:			#262626
+Urxvt*color9:			#de7c4c
+Urxvt*color10:			#ccd88c
+Urxvt*color11:			#e2c47e
+Urxvt*color12:			#5a5e62
+Urxvt*color13:			#d0dc8e
+Urxvt*color14:			#8a989b
+Urxvt*color15:			#ffffd4
+
+Urxvt.background: [95]#141414
+
+Urxvt.foreground: #ffffd4

@@ -1,0 +1,22 @@
+! Profile: Dracula
+
+Urxvt*color0:			#44475a
+Urxvt*color1:			#ff5555
+Urxvt*color2:			#50fa7b
+Urxvt*color3:			#ffb86c
+Urxvt*color4:			#8be9fd
+Urxvt*color5:			#bd93f9
+Urxvt*color6:			#ff79c6
+Urxvt*color7:			#94A3A5
+Urxvt*color8:			#000000
+Urxvt*color9:			#ff5555
+Urxvt*color10:			#50fa7b
+Urxvt*color11:			#ffb86c
+Urxvt*color12:			#8be9fd
+Urxvt*color13:			#bd93f9
+Urxvt*color14:			#ff79c6
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#282a36
+
+Urxvt.foreground: #94A3A5

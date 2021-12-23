@@ -1,0 +1,22 @@
+! Profile: Wez
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#cc5555
+Urxvt*color2:			#55cc55
+Urxvt*color3:			#cdcd55
+Urxvt*color4:			#5555cc
+Urxvt*color5:			#cc55cc
+Urxvt*color6:			#7acaca
+Urxvt*color7:			#cccccc
+Urxvt*color8:			#555555
+Urxvt*color9:			#ff5555
+Urxvt*color10:			#55ff55
+Urxvt*color11:			#ffff55
+Urxvt*color12:			#5555ff
+Urxvt*color13:			#ff55ff
+Urxvt*color14:			#55ffff
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #b3b3b3

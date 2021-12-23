@@ -1,0 +1,22 @@
+! Profile: Colorcli
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#D70000
+Urxvt*color2:			#5FAF00
+Urxvt*color3:			#5FAF00
+Urxvt*color4:			#005F87
+Urxvt*color5:			#D70000
+Urxvt*color6:			#5F5F5F
+Urxvt*color7:			#E4E4E4
+Urxvt*color8:			#5F5F5F
+Urxvt*color9:			#D70000
+Urxvt*color10:			#5F5F5F
+Urxvt*color11:			#FFFF00
+Urxvt*color12:			#0087AF
+Urxvt*color13:			#0087AF
+Urxvt*color14:			#0087AF
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#FFFFFF
+
+Urxvt.foreground: #005F87

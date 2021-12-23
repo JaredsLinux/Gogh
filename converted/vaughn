@@ -1,0 +1,22 @@
+! Profile: Vaughn
+
+Urxvt*color0:			#25234f
+Urxvt*color1:			#705050
+Urxvt*color2:			#60b48a
+Urxvt*color3:			#dfaf8f
+Urxvt*color4:			#5555ff
+Urxvt*color5:			#f08cc3
+Urxvt*color6:			#8cd0d3
+Urxvt*color7:			#709080
+Urxvt*color8:			#709080
+Urxvt*color9:			#dca3a3
+Urxvt*color10:			#60b48a
+Urxvt*color11:			#f0dfaf
+Urxvt*color12:			#5555ff
+Urxvt*color13:			#ec93d3
+Urxvt*color14:			#93e0e3
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#25234f
+
+Urxvt.foreground: #dcdccc

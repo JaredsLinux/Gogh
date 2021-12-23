@@ -1,0 +1,22 @@
+! Profile: Google Dark
+
+Urxvt*color0:			#202124
+Urxvt*color1:			#EA4335
+Urxvt*color2:			#34A853
+Urxvt*color3:			#FBBC04
+Urxvt*color4:			#4285F4
+Urxvt*color5:			#A142F4
+Urxvt*color6:			#24C1E0
+Urxvt*color7:			#E8EAED
+Urxvt*color8:			#5F6368
+Urxvt*color9:			#EA4335
+Urxvt*color10:			#34A853
+Urxvt*color11:			#FBBC05
+Urxvt*color12:			#4285F4
+Urxvt*color13:			#A142F4
+Urxvt*color14:			#24C1E0
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#202124
+
+Urxvt.foreground: #E8EAED

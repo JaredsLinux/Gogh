@@ -1,0 +1,22 @@
+! Profile: Shaman
+
+Urxvt*color0:			#012026
+Urxvt*color1:			#b2302d
+Urxvt*color2:			#00a941
+Urxvt*color3:			#5e8baa
+Urxvt*color4:			#449a86
+Urxvt*color5:			#00599d
+Urxvt*color6:			#5d7e19
+Urxvt*color7:			#405555
+Urxvt*color8:			#384451
+Urxvt*color9:			#ff4242
+Urxvt*color10:			#2aea5e
+Urxvt*color11:			#8ed4fd
+Urxvt*color12:			#61d5ba
+Urxvt*color13:			#1298ff
+Urxvt*color14:			#98d028
+Urxvt*color15:			#58fbd6
+
+Urxvt.background: [95]#001015
+
+Urxvt.foreground: #405555

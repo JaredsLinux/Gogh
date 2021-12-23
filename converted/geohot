@@ -1,0 +1,22 @@
+! Profile: GeoHot
+
+Urxvt*color0:			#F9F5F5
+Urxvt*color1:			#CC0000
+Urxvt*color2:			#1F1E1F
+Urxvt*color3:			#ADA110
+Urxvt*color4:			#FF004E
+Urxvt*color5:			#75507B
+Urxvt*color6:			#06919A
+Urxvt*color7:			#FFFFFF
+Urxvt*color8:			#555753
+Urxvt*color9:			#EF2929
+Urxvt*color10:			#FF0000
+Urxvt*color11:			#ADA110
+Urxvt*color12:			#5F4AA6
+Urxvt*color13:			#B74438
+Urxvt*color14:			#408F0C
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#1F1E1F
+
+Urxvt.foreground: #FFFFFF

@@ -1,0 +1,22 @@
+! Profile: Warm Neon
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#e24346
+Urxvt*color2:			#39b13a
+Urxvt*color3:			#dae145
+Urxvt*color4:			#4261c5
+Urxvt*color5:			#f920fb
+Urxvt*color6:			#2abbd4
+Urxvt*color7:			#d0b8a3
+Urxvt*color8:			#fefcfc
+Urxvt*color9:			#e97071
+Urxvt*color10:			#9cc090
+Urxvt*color11:			#ddda7a
+Urxvt*color12:			#7b91d6
+Urxvt*color13:			#f674ba
+Urxvt*color14:			#5ed1e5
+Urxvt*color15:			#d8c8bb
+
+Urxvt.background: [95]#404040
+
+Urxvt.foreground: #afdab6

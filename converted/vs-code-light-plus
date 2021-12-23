@@ -1,0 +1,22 @@
+! Profile: VS Code Light+
+
+Urxvt*color0:			#020202
+Urxvt*color1:			#CD3232
+Urxvt*color2:			#00BC00
+Urxvt*color3:			#A5A900
+Urxvt*color4:			#0752A8
+Urxvt*color5:			#BC05BC
+Urxvt*color6:			#0598BC
+Urxvt*color7:			#343434
+Urxvt*color8:			#5E5E5E
+Urxvt*color9:			#cd3333
+Urxvt*color10:			#1BCE1A
+Urxvt*color11:			#ADBB5B
+Urxvt*color12:			#0752A8
+Urxvt*color13:			#C451CE
+Urxvt*color14:			#52A8C7
+Urxvt*color15:			#A6A3A6
+
+Urxvt.background: [95]#f9f9f9
+
+Urxvt.foreground: #020202

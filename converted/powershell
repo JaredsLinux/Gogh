@@ -1,0 +1,22 @@
+! Profile: PowerShell
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#7E0008
+Urxvt*color2:			#098003
+Urxvt*color3:			#C4A000
+Urxvt*color4:			#010083
+Urxvt*color5:			#D33682
+Urxvt*color6:			#0E807F
+Urxvt*color7:			#7F7C7F
+Urxvt*color8:			#808080
+Urxvt*color9:			#EF2929
+Urxvt*color10:			#1CFE3C
+Urxvt*color11:			#FEFE45
+Urxvt*color12:			#268AD2
+Urxvt*color13:			#FE13FA
+Urxvt*color14:			#29FFFE
+Urxvt*color15:			#C2C1C3
+
+Urxvt.background: [95]#052454
+
+Urxvt.foreground: #F6F6F7

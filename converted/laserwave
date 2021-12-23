@@ -1,0 +1,22 @@
+! Profile: laserwave
+
+Urxvt*color0:			#39243A
+Urxvt*color1:			#EB64B9
+Urxvt*color2:			#AFD686
+Urxvt*color3:			#FEAE87
+Urxvt*color4:			#40B4C4
+Urxvt*color5:			#B381C5
+Urxvt*color6:			#215969
+Urxvt*color7:			#91889b
+Urxvt*color8:			#716485
+Urxvt*color9:			#FC2377
+Urxvt*color10:			#50FA7B
+Urxvt*color11:			#FFE261
+Urxvt*color12:			#74DFC4
+Urxvt*color13:			#6D75E0
+Urxvt*color14:			#B4DCE7
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#1F1926
+
+Urxvt.foreground: #E0E0E0

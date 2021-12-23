@@ -1,0 +1,22 @@
+! Profile: Flatland
+
+Urxvt*color0:			#1d1d19
+Urxvt*color1:			#f18339
+Urxvt*color2:			#9fd364
+Urxvt*color3:			#f4ef6d
+Urxvt*color4:			#5096be
+Urxvt*color5:			#695abc
+Urxvt*color6:			#d63865
+Urxvt*color7:			#ffffff
+Urxvt*color8:			#1d1d19
+Urxvt*color9:			#d22a24
+Urxvt*color10:			#a7d42c
+Urxvt*color11:			#ff8949
+Urxvt*color12:			#61b9d0
+Urxvt*color13:			#695abc
+Urxvt*color14:			#d63865
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#1d1f21
+
+Urxvt.foreground: #b8dbef

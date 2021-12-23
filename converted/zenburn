@@ -1,0 +1,22 @@
+! Profile: Zenburn
+
+Urxvt*color0:			#4d4d4d
+Urxvt*color1:			#705050
+Urxvt*color2:			#60b48a
+Urxvt*color3:			#f0dfaf
+Urxvt*color4:			#506070
+Urxvt*color5:			#dc8cc3
+Urxvt*color6:			#8cd0d3
+Urxvt*color7:			#dcdccc
+Urxvt*color8:			#709080
+Urxvt*color9:			#dca3a3
+Urxvt*color10:			#c3bf9f
+Urxvt*color11:			#e0cf9f
+Urxvt*color12:			#94bff3
+Urxvt*color13:			#ec93d3
+Urxvt*color14:			#93e0e3
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#3f3f3f
+
+Urxvt.foreground: #dcdccc

@@ -1,0 +1,22 @@
+! Profile: Miu
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#b87a7a
+Urxvt*color2:			#7ab87a
+Urxvt*color3:			#b8b87a
+Urxvt*color4:			#7a7ab8
+Urxvt*color5:			#b87ab8
+Urxvt*color6:			#7ab8b8
+Urxvt*color7:			#d9d9d9
+Urxvt*color8:			#262626
+Urxvt*color9:			#dbbdbd
+Urxvt*color10:			#bddbbd
+Urxvt*color11:			#dbdbbd
+Urxvt*color12:			#bdbddb
+Urxvt*color13:			#dbbddb
+Urxvt*color14:			#bddbdb
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#0d1926
+
+Urxvt.foreground: #d9e6f2

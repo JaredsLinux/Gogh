@@ -1,0 +1,22 @@
+! Profile: Paraiso Dark
+
+Urxvt*color0:			#2f1e2e
+Urxvt*color1:			#ef6155
+Urxvt*color2:			#48b685
+Urxvt*color3:			#fec418
+Urxvt*color4:			#06b6ef
+Urxvt*color5:			#815ba4
+Urxvt*color6:			#5bc4bf
+Urxvt*color7:			#a39e9b
+Urxvt*color8:			#776e71
+Urxvt*color9:			#ef6155
+Urxvt*color10:			#48b685
+Urxvt*color11:			#fec418
+Urxvt*color12:			#06b6ef
+Urxvt*color13:			#815ba4
+Urxvt*color14:			#5bc4bf
+Urxvt*color15:			#e7e9db
+
+Urxvt.background: [95]#2f1e2e
+
+Urxvt.foreground: #a39e9b

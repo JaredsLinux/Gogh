@@ -1,0 +1,22 @@
+! Profile: One Half Black
+
+Urxvt*color0:			#282c34
+Urxvt*color1:			#e06c75
+Urxvt*color2:			#98c379
+Urxvt*color3:			#e5c07b
+Urxvt*color4:			#61afef
+Urxvt*color5:			#c678dd
+Urxvt*color6:			#56b6c2
+Urxvt*color7:			#dcdfe4
+Urxvt*color8:			#282c34
+Urxvt*color9:			#e06c75
+Urxvt*color10:			#98c379
+Urxvt*color11:			#e5c07b
+Urxvt*color12:			#61afef
+Urxvt*color13:			#c678dd
+Urxvt*color14:			#56b6c2
+Urxvt*color15:			#dcdfe4
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #dcdfe4

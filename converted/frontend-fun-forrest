@@ -1,0 +1,22 @@
+! Profile: Frontend Fun Forrest
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#d6262b
+Urxvt*color2:			#919c00
+Urxvt*color3:			#be8a13
+Urxvt*color4:			#4699a3
+Urxvt*color5:			#8d4331
+Urxvt*color6:			#da8213
+Urxvt*color7:			#ddc265
+Urxvt*color8:			#7f6a55
+Urxvt*color9:			#e55a1c
+Urxvt*color10:			#bfc65a
+Urxvt*color11:			#ffcb1b
+Urxvt*color12:			#7cc9cf
+Urxvt*color13:			#d26349
+Urxvt*color14:			#e6a96b
+Urxvt*color15:			#ffeaa3
+
+Urxvt.background: [95]#251200
+
+Urxvt.foreground: #dec165

@@ -1,0 +1,22 @@
+! Profile: Hemisu Dark
+
+Urxvt*color0:			#444444
+Urxvt*color1:			#FF0054
+Urxvt*color2:			#B1D630
+Urxvt*color3:			#9D895E
+Urxvt*color4:			#67BEE3
+Urxvt*color5:			#B576BC
+Urxvt*color6:			#569A9F
+Urxvt*color7:			#EDEDED
+Urxvt*color8:			#777777
+Urxvt*color9:			#D65E75
+Urxvt*color10:			#BAFFAA
+Urxvt*color11:			#ECE1C8
+Urxvt*color12:			#9FD3E5
+Urxvt*color13:			#DEB3DF
+Urxvt*color14:			#B6E0E5
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #FFFFFF

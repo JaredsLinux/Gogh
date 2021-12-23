@@ -1,0 +1,22 @@
+! Profile: mono-amber
+
+Urxvt*color0:			#402500
+Urxvt*color1:			#FF9400
+Urxvt*color2:			#FF9400
+Urxvt*color3:			#FF9400
+Urxvt*color4:			#FF9400
+Urxvt*color5:			#FF9400
+Urxvt*color6:			#FF9400
+Urxvt*color7:			#FF9400
+Urxvt*color8:			#FF9400
+Urxvt*color9:			#FF9400
+Urxvt*color10:			#FF9400
+Urxvt*color11:			#FF9400
+Urxvt*color12:			#FF9400
+Urxvt*color13:			#FF9400
+Urxvt*color14:			#FF9400
+Urxvt*color15:			#FF9400
+
+Urxvt.background: [95]#2B1900
+
+Urxvt.foreground: #FF9400

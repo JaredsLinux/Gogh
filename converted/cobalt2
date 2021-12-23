@@ -1,0 +1,22 @@
+! Profile: Cobalt 2
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#ff0000
+Urxvt*color2:			#38de21
+Urxvt*color3:			#ffe50a
+Urxvt*color4:			#1460d2
+Urxvt*color5:			#ff005d
+Urxvt*color6:			#00bbbb
+Urxvt*color7:			#bbbbbb
+Urxvt*color8:			#555555
+Urxvt*color9:			#f40e17
+Urxvt*color10:			#3bd01d
+Urxvt*color11:			#edc809
+Urxvt*color12:			#5555ff
+Urxvt*color13:			#ff55ff
+Urxvt*color14:			#6ae3fa
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#132738
+
+Urxvt.foreground: #ffffff

@@ -1,0 +1,22 @@
+! Profile: Tin
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#8d534e
+Urxvt*color2:			#4e8d53
+Urxvt*color3:			#888d4e
+Urxvt*color4:			#534e8d
+Urxvt*color5:			#8d4e88
+Urxvt*color6:			#4e888d
+Urxvt*color7:			#ffffff
+Urxvt*color8:			#000000
+Urxvt*color9:			#b57d78
+Urxvt*color10:			#78b57d
+Urxvt*color11:			#b0b578
+Urxvt*color12:			#7d78b5
+Urxvt*color13:			#b578b0
+Urxvt*color14:			#78b0b5
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#2e2e35
+
+Urxvt.foreground: #ffffff

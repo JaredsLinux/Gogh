@@ -1,0 +1,22 @@
+! Profile: Red Sands
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#ff3f00
+Urxvt*color2:			#00bb00
+Urxvt*color3:			#e7b000
+Urxvt*color4:			#0072ff
+Urxvt*color5:			#bb00bb
+Urxvt*color6:			#00bbbb
+Urxvt*color7:			#bbbbbb
+Urxvt*color8:			#555555
+Urxvt*color9:			#bb0000
+Urxvt*color10:			#00bb00
+Urxvt*color11:			#e7b000
+Urxvt*color12:			#0072ae
+Urxvt*color13:			#ff55ff
+Urxvt*color14:			#55ffff
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#7a251e
+
+Urxvt.foreground: #d7c9a7

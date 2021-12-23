@@ -1,0 +1,22 @@
+! Profile: Jellybeans
+
+Urxvt*color0:			#929292
+Urxvt*color1:			#e27373
+Urxvt*color2:			#94b979
+Urxvt*color3:			#ffba7b
+Urxvt*color4:			#97bedc
+Urxvt*color5:			#e1c0fa
+Urxvt*color6:			#00988e
+Urxvt*color7:			#dedede
+Urxvt*color8:			#bdbdbd
+Urxvt*color9:			#ffa1a1
+Urxvt*color10:			#bddeab
+Urxvt*color11:			#ffdca0
+Urxvt*color12:			#b1d8f6
+Urxvt*color13:			#fbdaff
+Urxvt*color14:			#1ab2a8
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#121212
+
+Urxvt.foreground: #dedede

@@ -1,0 +1,22 @@
+! Profile: Hybrid
+
+Urxvt*color0:			#282a2e
+Urxvt*color1:			#A54242
+Urxvt*color2:			#8C9440
+Urxvt*color3:			#de935f
+Urxvt*color4:			#5F819D
+Urxvt*color5:			#85678F
+Urxvt*color6:			#5E8D87
+Urxvt*color7:			#969896
+Urxvt*color8:			#373b41
+Urxvt*color9:			#cc6666
+Urxvt*color10:			#b5bd68
+Urxvt*color11:			#f0c674
+Urxvt*color12:			#81a2be
+Urxvt*color13:			#b294bb
+Urxvt*color14:			#8abeb7
+Urxvt*color15:			#c5c8c6
+
+Urxvt.background: [95]#141414
+
+Urxvt.foreground: #94a3a5

@@ -1,0 +1,22 @@
+! Profile: Solarized Dark
+
+Urxvt*color0:			#073642
+Urxvt*color1:			#DC322F
+Urxvt*color2:			#859900
+Urxvt*color3:			#CF9A6B
+Urxvt*color4:			#268BD2
+Urxvt*color5:			#D33682
+Urxvt*color6:			#2AA198
+Urxvt*color7:			#EEE8D5
+Urxvt*color8:			#657B83
+Urxvt*color9:			#D87979
+Urxvt*color10:			#88CF76
+Urxvt*color11:			#657B83
+Urxvt*color12:			#2699FF
+Urxvt*color13:			#D33682
+Urxvt*color14:			#43B8C3
+Urxvt*color15:			#FDF6E3
+
+Urxvt.background: [95]#002B36
+
+Urxvt.foreground: #839496

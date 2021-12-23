@@ -1,0 +1,22 @@
+! Profile: Urple
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#b0425b
+Urxvt*color2:			#37a415
+Urxvt*color3:			#ad5c42
+Urxvt*color4:			#564d9b
+Urxvt*color5:			#6c3ca1
+Urxvt*color6:			#808080
+Urxvt*color7:			#87799c
+Urxvt*color8:			#5d3225
+Urxvt*color9:			#ff6388
+Urxvt*color10:			#29e620
+Urxvt*color11:			#f08161
+Urxvt*color12:			#867aed
+Urxvt*color13:			#a05eee
+Urxvt*color14:			#eaeaea
+Urxvt*color15:			#bfa3ff
+
+Urxvt.background: [95]#1b1b23
+
+Urxvt.foreground: #877a9b

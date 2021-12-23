@@ -1,0 +1,22 @@
+! Profile: Monokai Dark
+
+Urxvt*color0:			#75715e
+Urxvt*color1:			#f92672
+Urxvt*color2:			#a6e22e
+Urxvt*color3:			#f4bf75
+Urxvt*color4:			#66d9ef
+Urxvt*color5:			#ae81ff
+Urxvt*color6:			#2AA198
+Urxvt*color7:			#f9f8f5
+Urxvt*color8:			#272822
+Urxvt*color9:			#f92672
+Urxvt*color10:			#a6e22e
+Urxvt*color11:			#f4bf75
+Urxvt*color12:			#66d9ef
+Urxvt*color13:			#ae81ff
+Urxvt*color14:			#2AA198
+Urxvt*color15:			#f8f8f2
+
+Urxvt.background: [95]#272822
+
+Urxvt.foreground: #f8f8f2

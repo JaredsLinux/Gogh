@@ -1,0 +1,22 @@
+! Profile: Tomorrow Night Bright
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#D54E53
+Urxvt*color2:			#B9CA49
+Urxvt*color3:			#E7C547
+Urxvt*color4:			#79A6DA
+Urxvt*color5:			#C397D8
+Urxvt*color6:			#70C0B1
+Urxvt*color7:			#FFFEFE
+Urxvt*color8:			#000000
+Urxvt*color9:			#D44D53
+Urxvt*color10:			#B9C949
+Urxvt*color11:			#E6C446
+Urxvt*color12:			#79A6DA
+Urxvt*color13:			#C396D7
+Urxvt*color14:			#70C0B1
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #E9E9E9

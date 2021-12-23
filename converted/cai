@@ -1,0 +1,22 @@
+! Profile: Cai
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#ca274d
+Urxvt*color2:			#4dca27
+Urxvt*color3:			#caa427
+Urxvt*color4:			#274dca
+Urxvt*color5:			#a427ca
+Urxvt*color6:			#27caa4
+Urxvt*color7:			#808080
+Urxvt*color8:			#808080
+Urxvt*color9:			#e98da3
+Urxvt*color10:			#a3e98d
+Urxvt*color11:			#e9d48d
+Urxvt*color12:			#8da3e9
+Urxvt*color13:			#d48de9
+Urxvt*color14:			#8de9d4
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#09111a
+
+Urxvt.foreground: #d9e6f2

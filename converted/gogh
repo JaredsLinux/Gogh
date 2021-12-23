@@ -1,0 +1,22 @@
+! Profile: Gogh
+
+Urxvt*color0:			#292D3E
+Urxvt*color1:			#F07178
+Urxvt*color2:			#62DE84
+Urxvt*color3:			#FFCB6B
+Urxvt*color4:			#75A1FF
+Urxvt*color5:			#F580FF
+Urxvt*color6:			#60BAEC
+Urxvt*color7:			#ABB2BF
+Urxvt*color8:			#959DCB
+Urxvt*color9:			#F07178
+Urxvt*color10:			#C3E88D
+Urxvt*color11:			#FF5572
+Urxvt*color12:			#82AAFF
+Urxvt*color13:			#FFCB6B
+Urxvt*color14:			#676E95
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#292D3E
+
+Urxvt.foreground: #BFC7D5

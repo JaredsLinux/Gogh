@@ -1,0 +1,22 @@
+! Profile: Ciapre
+
+Urxvt*color0:			#181818
+Urxvt*color1:			#810009
+Urxvt*color2:			#48513b
+Urxvt*color3:			#cc8b3f
+Urxvt*color4:			#576d8c
+Urxvt*color5:			#724d7c
+Urxvt*color6:			#5c4f4b
+Urxvt*color7:			#aea47f
+Urxvt*color8:			#555555
+Urxvt*color9:			#ac3835
+Urxvt*color10:			#a6a75d
+Urxvt*color11:			#dcdf7c
+Urxvt*color12:			#3097c6
+Urxvt*color13:			#d33061
+Urxvt*color14:			#f3dbb2
+Urxvt*color15:			#f4f4f4
+
+Urxvt.background: [95]#191c27
+
+Urxvt.foreground: #aea47a

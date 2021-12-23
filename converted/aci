@@ -1,0 +1,22 @@
+! Profile: Aci
+
+Urxvt*color0:			#363636
+Urxvt*color1:			#ff0883
+Urxvt*color2:			#83ff08
+Urxvt*color3:			#ff8308
+Urxvt*color4:			#0883ff
+Urxvt*color5:			#8308ff
+Urxvt*color6:			#08ff83
+Urxvt*color7:			#b6b6b6
+Urxvt*color8:			#424242
+Urxvt*color9:			#ff1e8e
+Urxvt*color10:			#8eff1e
+Urxvt*color11:			#ff8e1e
+Urxvt*color12:			#1e8eff
+Urxvt*color13:			#8e1eff
+Urxvt*color14:			#1eff8e
+Urxvt*color15:			#c2c2c2
+
+Urxvt.background: [95]#0d1926
+
+Urxvt.foreground: #b4e1fd

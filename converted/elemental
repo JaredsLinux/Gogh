@@ -1,0 +1,22 @@
+! Profile: Elemental
+
+Urxvt*color0:			#3c3c30
+Urxvt*color1:			#98290f
+Urxvt*color2:			#479a43
+Urxvt*color3:			#7f7111
+Urxvt*color4:			#497f7d
+Urxvt*color5:			#7f4e2f
+Urxvt*color6:			#387f58
+Urxvt*color7:			#807974
+Urxvt*color8:			#555445
+Urxvt*color9:			#e0502a
+Urxvt*color10:			#61e070
+Urxvt*color11:			#d69927
+Urxvt*color12:			#79d9d9
+Urxvt*color13:			#cd7c54
+Urxvt*color14:			#59d599
+Urxvt*color15:			#fff1e9
+
+Urxvt.background: [95]#22211d
+
+Urxvt.foreground: #807a74

@@ -1,0 +1,22 @@
+! Profile: Peppermint
+
+Urxvt*color0:			#353535
+Urxvt*color1:			#E64569
+Urxvt*color2:			#89D287
+Urxvt*color3:			#DAB752
+Urxvt*color4:			#439ECF
+Urxvt*color5:			#D961DC
+Urxvt*color6:			#64AAAF
+Urxvt*color7:			#B3B3B3
+Urxvt*color8:			#535353
+Urxvt*color9:			#E4859A
+Urxvt*color10:			#A2CCA1
+Urxvt*color11:			#E1E387
+Urxvt*color12:			#6FBBE2
+Urxvt*color13:			#E586E7
+Urxvt*color14:			#96DCDA
+Urxvt*color15:			#DEDEDE
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #C7C7C7

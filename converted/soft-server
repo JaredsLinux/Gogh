@@ -1,0 +1,22 @@
+! Profile: Soft Server
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#a2686a
+Urxvt*color2:			#9aa56a
+Urxvt*color3:			#a3906a
+Urxvt*color4:			#6b8fa3
+Urxvt*color5:			#6a71a3
+Urxvt*color6:			#6ba58f
+Urxvt*color7:			#99a3a2
+Urxvt*color8:			#666c6c
+Urxvt*color9:			#dd5c60
+Urxvt*color10:			#bfdf55
+Urxvt*color11:			#deb360
+Urxvt*color12:			#62b1df
+Urxvt*color13:			#606edf
+Urxvt*color14:			#64e39c
+Urxvt*color15:			#d2e0de
+
+Urxvt.background: [95]#242626
+
+Urxvt.foreground: #99a3a2

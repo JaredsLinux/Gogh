@@ -1,0 +1,22 @@
+! Profile: Royal
+
+Urxvt*color0:			#241f2b
+Urxvt*color1:			#91284c
+Urxvt*color2:			#23801c
+Urxvt*color3:			#b49d27
+Urxvt*color4:			#6580b0
+Urxvt*color5:			#674d96
+Urxvt*color6:			#8aaabe
+Urxvt*color7:			#524966
+Urxvt*color8:			#312d3d
+Urxvt*color9:			#d5356c
+Urxvt*color10:			#2cd946
+Urxvt*color11:			#fde83b
+Urxvt*color12:			#90baf9
+Urxvt*color13:			#a479e3
+Urxvt*color14:			#acd4eb
+Urxvt*color15:			#9e8cbd
+
+Urxvt.background: [95]#100815
+
+Urxvt.foreground: #514968

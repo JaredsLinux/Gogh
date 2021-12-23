@@ -1,0 +1,22 @@
+! Profile: Chameleon
+
+Urxvt*color0:			#2C2C2C
+Urxvt*color1:			#CC231C
+Urxvt*color2:			#689D69
+Urxvt*color3:			#D79922
+Urxvt*color4:			#366B71
+Urxvt*color5:			#4E5165
+Urxvt*color6:			#458587
+Urxvt*color7:			#C8BB97
+Urxvt*color8:			#777777
+Urxvt*color9:			#CC231C
+Urxvt*color10:			#689D69
+Urxvt*color11:			#D79922
+Urxvt*color12:			#366B71
+Urxvt*color13:			#4E5165
+Urxvt*color14:			#458587
+Urxvt*color15:			#C8BB97
+
+Urxvt.background: [95]#2C2C2C
+
+Urxvt.foreground: #DEDEDE

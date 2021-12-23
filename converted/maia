@@ -1,0 +1,22 @@
+! Profile: Maia
+
+Urxvt*color0:			#232423
+Urxvt*color1:			#BA2922
+Urxvt*color2:			#7E807E
+Urxvt*color3:			#4C4F4D
+Urxvt*color4:			#16A085
+Urxvt*color5:			#43746A
+Urxvt*color6:			#00CCCC
+Urxvt*color7:			#E0E0E0
+Urxvt*color8:			#282928
+Urxvt*color9:			#CC372C
+Urxvt*color10:			#8D8F8D
+Urxvt*color11:			#4E524F
+Urxvt*color12:			#13BF9D
+Urxvt*color13:			#487D72
+Urxvt*color14:			#00D1D1
+Urxvt*color15:			#E8E8E8
+
+Urxvt.background: [95]#31363B
+
+Urxvt.foreground: #BDC3C7

@@ -1,0 +1,22 @@
+! Profile: Mar
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#b5407b
+Urxvt*color2:			#7bb540
+Urxvt*color3:			#b57b40
+Urxvt*color4:			#407bb5
+Urxvt*color5:			#7b40b5
+Urxvt*color6:			#40b57b
+Urxvt*color7:			#f8f8f8
+Urxvt*color8:			#737373
+Urxvt*color9:			#cd73a0
+Urxvt*color10:			#a0cd73
+Urxvt*color11:			#cda073
+Urxvt*color12:			#73a0cd
+Urxvt*color13:			#a073cd
+Urxvt*color14:			#73cda0
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#ffffff
+
+Urxvt.foreground: #23476a

@@ -1,0 +1,22 @@
+! Profile: Tomorrow Night Eighties
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#F27779
+Urxvt*color2:			#99CC99
+Urxvt*color3:			#FFCC66
+Urxvt*color4:			#6699CC
+Urxvt*color5:			#CC99CC
+Urxvt*color6:			#66CCCC
+Urxvt*color7:			#FFFEFE
+Urxvt*color8:			#000000
+Urxvt*color9:			#F17779
+Urxvt*color10:			#99CC99
+Urxvt*color11:			#FFCC66
+Urxvt*color12:			#6699CC
+Urxvt*color13:			#CC99CC
+Urxvt*color14:			#66CCCC
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#2C2C2C
+
+Urxvt.foreground: #CCCCCC

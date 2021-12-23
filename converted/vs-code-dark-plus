@@ -1,0 +1,22 @@
+! Profile: VS Code Dark+
+
+Urxvt*color0:			#6A787A
+Urxvt*color1:			#E9653B
+Urxvt*color2:			#39E9A8
+Urxvt*color3:			#E5B684
+Urxvt*color4:			#44AAE6
+Urxvt*color5:			#E17599
+Urxvt*color6:			#3DD5E7
+Urxvt*color7:			#C3DDE1
+Urxvt*color8:			#598489
+Urxvt*color9:			#E65029
+Urxvt*color10:			#00FF9A
+Urxvt*color11:			#E89440
+Urxvt*color12:			#009AFB
+Urxvt*color13:			#FF578F
+Urxvt*color14:			#5FFFFF
+Urxvt*color15:			#D9FBFF
+
+Urxvt.background: [95]#1E1E1E
+
+Urxvt.foreground: #CCCCCC

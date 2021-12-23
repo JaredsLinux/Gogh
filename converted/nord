@@ -1,0 +1,22 @@
+! Profile: Nord
+
+Urxvt*color0:			#3B4252
+Urxvt*color1:			#BF616A
+Urxvt*color2:			#A3BE8C
+Urxvt*color3:			#EBCB8B
+Urxvt*color4:			#81A1C1
+Urxvt*color5:			#B48EAD
+Urxvt*color6:			#88C0D0
+Urxvt*color7:			#E5E9F0
+Urxvt*color8:			#4C566A
+Urxvt*color9:			#BF616A
+Urxvt*color10:			#A3BE8C
+Urxvt*color11:			#EBCB8B
+Urxvt*color12:			#81A1C1
+Urxvt*color13:			#B48EAD
+Urxvt*color14:			#8FBCBB
+Urxvt*color15:			#ECEFF4
+
+Urxvt.background: [95]#2E3440
+
+Urxvt.foreground: #D8DEE9

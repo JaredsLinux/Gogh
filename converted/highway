@@ -1,0 +1,22 @@
+! Profile: Highway
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#d00e18
+Urxvt*color2:			#138034
+Urxvt*color3:			#ffcb3e
+Urxvt*color4:			#006bb3
+Urxvt*color5:			#6b2775
+Urxvt*color6:			#384564
+Urxvt*color7:			#ededed
+Urxvt*color8:			#5d504a
+Urxvt*color9:			#f07e18
+Urxvt*color10:			#b1d130
+Urxvt*color11:			#fff120
+Urxvt*color12:			#4fc2fd
+Urxvt*color13:			#de0071
+Urxvt*color14:			#5d504a
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#222225
+
+Urxvt.foreground: #ededed

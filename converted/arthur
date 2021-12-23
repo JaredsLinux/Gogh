@@ -1,0 +1,22 @@
+! Profile: Arthur
+
+Urxvt*color0:			#3d352a
+Urxvt*color1:			#cd5c5c
+Urxvt*color2:			#86af80
+Urxvt*color3:			#e8ae5b
+Urxvt*color4:			#6495ed
+Urxvt*color5:			#deb887
+Urxvt*color6:			#b0c4de
+Urxvt*color7:			#bbaa99
+Urxvt*color8:			#554444
+Urxvt*color9:			#cc5533
+Urxvt*color10:			#88aa22
+Urxvt*color11:			#ffa75d
+Urxvt*color12:			#87ceeb
+Urxvt*color13:			#996600
+Urxvt*color14:			#b0c4de
+Urxvt*color15:			#ddccbb
+
+Urxvt.background: [95]#1c1c1c
+
+Urxvt.foreground: #ddeedd

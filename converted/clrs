@@ -1,0 +1,22 @@
+! Profile: CLRS
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#f8282a
+Urxvt*color2:			#328a5d
+Urxvt*color3:			#fa701d
+Urxvt*color4:			#135cd0
+Urxvt*color5:			#9f00bd
+Urxvt*color6:			#33c3c1
+Urxvt*color7:			#b3b3b3
+Urxvt*color8:			#555753
+Urxvt*color9:			#fb0416
+Urxvt*color10:			#2cc631
+Urxvt*color11:			#fdd727
+Urxvt*color12:			#1670ff
+Urxvt*color13:			#e900b0
+Urxvt*color14:			#3ad5ce
+Urxvt*color15:			#eeeeec
+
+Urxvt.background: [95]#ffffff
+
+Urxvt.foreground: #262626

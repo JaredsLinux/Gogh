@@ -1,0 +1,22 @@
+! Profile: Later This Evening
+
+Urxvt*color0:			#2b2b2b
+Urxvt*color1:			#d45a60
+Urxvt*color2:			#afba67
+Urxvt*color3:			#e5d289
+Urxvt*color4:			#a0bad6
+Urxvt*color5:			#c092d6
+Urxvt*color6:			#91bfb7
+Urxvt*color7:			#3c3d3d
+Urxvt*color8:			#454747
+Urxvt*color9:			#d3232f
+Urxvt*color10:			#aabb39
+Urxvt*color11:			#e5be39
+Urxvt*color12:			#6699d6
+Urxvt*color13:			#ab53d6
+Urxvt*color14:			#5fc0ae
+Urxvt*color15:			#c1c2c2
+
+Urxvt.background: [95]#222222
+
+Urxvt.foreground: #959595

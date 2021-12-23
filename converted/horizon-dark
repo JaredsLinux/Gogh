@@ -1,0 +1,22 @@
+! Profile: Horizon Dark
+
+Urxvt*color0:			#16161C
+Urxvt*color1:			#E95678
+Urxvt*color2:			#29D398
+Urxvt*color3:			#FAB795
+Urxvt*color4:			#26BBD9
+Urxvt*color5:			#EE64AE
+Urxvt*color6:			#59E3E3
+Urxvt*color7:			#FADAD1
+Urxvt*color8:			#232530
+Urxvt*color9:			#EC6A88
+Urxvt*color10:			#3FDAA4
+Urxvt*color11:			#FBC3A7
+Urxvt*color12:			#3FC6DE
+Urxvt*color13:			#F075B7
+Urxvt*color14:			#6BE6E6
+Urxvt*color15:			#FDF0ED
+
+Urxvt.background: [95]#1C1E26
+
+Urxvt.foreground: #FDF0ED

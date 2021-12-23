@@ -1,0 +1,22 @@
+! Profile: Novel
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#cc0000
+Urxvt*color2:			#009600
+Urxvt*color3:			#d06b00
+Urxvt*color4:			#0000cc
+Urxvt*color5:			#cc00cc
+Urxvt*color6:			#0087cc
+Urxvt*color7:			#cccccc
+Urxvt*color8:			#808080
+Urxvt*color9:			#cc0000
+Urxvt*color10:			#009600
+Urxvt*color11:			#d06b00
+Urxvt*color12:			#0000cc
+Urxvt*color13:			#cc00cc
+Urxvt*color14:			#0087cc
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#dfdbc3
+
+Urxvt.foreground: #3b2322

@@ -1,0 +1,22 @@
+! Profile: Wzoreck
+
+Urxvt*color0:			#2E3436
+Urxvt*color1:			#FC6386
+Urxvt*color2:			#424043
+Urxvt*color3:			#FCE94F
+Urxvt*color4:			#FB976B
+Urxvt*color5:			#75507B
+Urxvt*color6:			#34E2E2
+Urxvt*color7:			#FFFFFF
+Urxvt*color8:			#989595
+Urxvt*color9:			#FC6386
+Urxvt*color10:			#A9DC76
+Urxvt*color11:			#FCE94F
+Urxvt*color12:			#FB976B
+Urxvt*color13:			#AB9DF2
+Urxvt*color14:			#34E2E2
+Urxvt*color15:			#D1D1C0
+
+Urxvt.background: [95]#424043
+
+Urxvt.foreground: #FCFCFA

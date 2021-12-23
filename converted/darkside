@@ -1,0 +1,22 @@
+! Profile: Darkside
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#e8341c
+Urxvt*color2:			#68c256
+Urxvt*color3:			#f2d42c
+Urxvt*color4:			#1c98e8
+Urxvt*color5:			#8e69c9
+Urxvt*color6:			#1c98e8
+Urxvt*color7:			#bababa
+Urxvt*color8:			#000000
+Urxvt*color9:			#e05a4f
+Urxvt*color10:			#77b869
+Urxvt*color11:			#efd64b
+Urxvt*color12:			#387cd3
+Urxvt*color13:			#957bbe
+Urxvt*color14:			#3d97e2
+Urxvt*color15:			#bababa
+
+Urxvt.background: [95]#222324
+
+Urxvt.foreground: #bababa

@@ -1,0 +1,22 @@
+! Profile: Tomorrow Night
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#CC6666
+Urxvt*color2:			#B5BD68
+Urxvt*color3:			#F0C674
+Urxvt*color4:			#81A2BE
+Urxvt*color5:			#B293BB
+Urxvt*color6:			#8ABEB7
+Urxvt*color7:			#FFFEFE
+Urxvt*color8:			#000000
+Urxvt*color9:			#CC6666
+Urxvt*color10:			#B5BD68
+Urxvt*color11:			#F0C574
+Urxvt*color12:			#80A1BD
+Urxvt*color13:			#B294BA
+Urxvt*color14:			#8ABDB6
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#1D1F21
+
+Urxvt.foreground: #C5C8C6

@@ -1,0 +1,22 @@
+! Profile: IBM 3270 (High Contrast)
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#FF0000
+Urxvt*color2:			#00FF00
+Urxvt*color3:			#FFFF00
+Urxvt*color4:			#00BFFF
+Urxvt*color5:			#FFC0CB
+Urxvt*color6:			#40E0D0
+Urxvt*color7:			#BEBEBE
+Urxvt*color8:			#414141
+Urxvt*color9:			#FFA500
+Urxvt*color10:			#98FB98
+Urxvt*color11:			#FFFF00
+Urxvt*color12:			#0000CD
+Urxvt*color13:			#A020F0
+Urxvt*color14:			#AEEEEE
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #FDFDFD

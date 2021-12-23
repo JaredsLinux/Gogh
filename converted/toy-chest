@@ -1,0 +1,22 @@
+! Profile: Toy Chest
+
+Urxvt*color0:			#2c3f58
+Urxvt*color1:			#be2d26
+Urxvt*color2:			#1a9172
+Urxvt*color3:			#db8e27
+Urxvt*color4:			#325d96
+Urxvt*color5:			#8a5edc
+Urxvt*color6:			#35a08f
+Urxvt*color7:			#23d183
+Urxvt*color8:			#336889
+Urxvt*color9:			#dd5944
+Urxvt*color10:			#31d07b
+Urxvt*color11:			#e7d84b
+Urxvt*color12:			#34a6da
+Urxvt*color13:			#ae6bdc
+Urxvt*color14:			#42c3ae
+Urxvt*color15:			#d5d5d5
+
+Urxvt.background: [95]#24364b
+
+Urxvt.foreground: #31d07b

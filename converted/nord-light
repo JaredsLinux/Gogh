@@ -1,0 +1,22 @@
+! Profile: Nord Light
+
+Urxvt*color0:			#003B4E
+Urxvt*color1:			#E64569
+Urxvt*color2:			#069F5F
+Urxvt*color3:			#DAB752
+Urxvt*color4:			#439ECF
+Urxvt*color5:			#D961DC
+Urxvt*color6:			#00B1BE
+Urxvt*color7:			#B3B3B3
+Urxvt*color8:			#3E89A1
+Urxvt*color9:			#E4859A
+Urxvt*color10:			#A2CCA1
+Urxvt*color11:			#E1E387
+Urxvt*color12:			#6FBBE2
+Urxvt*color13:			#E586E7
+Urxvt*color14:			#96DCDA
+Urxvt*color15:			#DEDEDE
+
+Urxvt.background: [95]#ebeaf2
+
+Urxvt.foreground: #004f7c

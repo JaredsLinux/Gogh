@@ -1,0 +1,22 @@
+! Profile: Ayu Mirage
+
+Urxvt*color0:			#1F2430
+Urxvt*color1:			#FF3333
+Urxvt*color2:			#BAE67E
+Urxvt*color3:			#FFA759
+Urxvt*color4:			#73D0FF
+Urxvt*color5:			#D4BFFF
+Urxvt*color6:			#95E6CB
+Urxvt*color7:			#CBCCC6
+Urxvt*color8:			#707A8C
+Urxvt*color9:			#FF3333
+Urxvt*color10:			#BAE67E
+Urxvt*color11:			#FFA759
+Urxvt*color12:			#73D0FF
+Urxvt*color13:			#D4BFFF
+Urxvt*color14:			#95E6CB
+Urxvt*color15:			#CBCCC6
+
+Urxvt.background: [95]#1F2430
+
+Urxvt.foreground: #CBCCC6

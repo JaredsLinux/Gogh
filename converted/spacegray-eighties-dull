@@ -1,0 +1,22 @@
+! Profile: SpaceGray Eighties Dull
+
+Urxvt*color0:			#15171c
+Urxvt*color1:			#b24a56
+Urxvt*color2:			#92b477
+Urxvt*color3:			#c6735a
+Urxvt*color4:			#7c8fa5
+Urxvt*color5:			#a5789e
+Urxvt*color6:			#80cdcb
+Urxvt*color7:			#b3b8c3
+Urxvt*color8:			#555555
+Urxvt*color9:			#ec5f67
+Urxvt*color10:			#89e986
+Urxvt*color11:			#fec254
+Urxvt*color12:			#5486c0
+Urxvt*color13:			#bf83c1
+Urxvt*color14:			#58c2c1
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#222222
+
+Urxvt.foreground: #c9c6bc

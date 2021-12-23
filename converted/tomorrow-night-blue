@@ -1,0 +1,22 @@
+! Profile: Tomorrow Night Blue
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#FF9DA3
+Urxvt*color2:			#D1F1A9
+Urxvt*color3:			#FFEEAD
+Urxvt*color4:			#BBDAFF
+Urxvt*color5:			#EBBBFF
+Urxvt*color6:			#99FFFF
+Urxvt*color7:			#FFFEFE
+Urxvt*color8:			#000000
+Urxvt*color9:			#FF9CA3
+Urxvt*color10:			#D0F0A8
+Urxvt*color11:			#FFEDAC
+Urxvt*color12:			#BADAFF
+Urxvt*color13:			#EBBAFF
+Urxvt*color14:			#99FFFF
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#002451
+
+Urxvt.foreground: #FFFEFE

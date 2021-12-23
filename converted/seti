@@ -1,0 +1,22 @@
+! Profile: Seti
+
+Urxvt*color0:			#323232
+Urxvt*color1:			#c22832
+Urxvt*color2:			#8ec43d
+Urxvt*color3:			#e0c64f
+Urxvt*color4:			#43a5d5
+Urxvt*color5:			#8b57b5
+Urxvt*color6:			#8ec43d
+Urxvt*color7:			#eeeeee
+Urxvt*color8:			#323232
+Urxvt*color9:			#c22832
+Urxvt*color10:			#8ec43d
+Urxvt*color11:			#e0c64f
+Urxvt*color12:			#43a5d5
+Urxvt*color13:			#8b57b5
+Urxvt*color14:			#8ec43d
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#111213
+
+Urxvt.foreground: #cacecd

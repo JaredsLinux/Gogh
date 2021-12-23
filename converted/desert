@@ -1,0 +1,22 @@
+! Profile: Desert
+
+Urxvt*color0:			#4d4d4d
+Urxvt*color1:			#ff2b2b
+Urxvt*color2:			#98fb98
+Urxvt*color3:			#f0e68c
+Urxvt*color4:			#cd853f
+Urxvt*color5:			#ffdead
+Urxvt*color6:			#ffa0a0
+Urxvt*color7:			#f5deb3
+Urxvt*color8:			#555555
+Urxvt*color9:			#ff5555
+Urxvt*color10:			#55ff55
+Urxvt*color11:			#ffff55
+Urxvt*color12:			#87ceff
+Urxvt*color13:			#ff55ff
+Urxvt*color14:			#ffd700
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#333333
+
+Urxvt.foreground: #ffffff

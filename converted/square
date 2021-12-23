@@ -1,0 +1,22 @@
+! Profile: Square
+
+Urxvt*color0:			#050505
+Urxvt*color1:			#e9897c
+Urxvt*color2:			#b6377d
+Urxvt*color3:			#ecebbe
+Urxvt*color4:			#a9cdeb
+Urxvt*color5:			#75507b
+Urxvt*color6:			#c9caec
+Urxvt*color7:			#f2f2f2
+Urxvt*color8:			#141414
+Urxvt*color9:			#f99286
+Urxvt*color10:			#c3f786
+Urxvt*color11:			#fcfbcc
+Urxvt*color12:			#b6defb
+Urxvt*color13:			#ad7fa8
+Urxvt*color14:			#d7d9fc
+Urxvt*color15:			#e2e2e2
+
+Urxvt.background: [95]#0a1e24
+
+Urxvt.foreground: #a1a1a1

@@ -1,0 +1,22 @@
+! Profile: Morada
+
+Urxvt*color0:			#040404
+Urxvt*color1:			#0f49c4
+Urxvt*color2:			#48b117
+Urxvt*color3:			#e87324
+Urxvt*color4:			#bc0116
+Urxvt*color5:			#665b93
+Urxvt*color6:			#70a699
+Urxvt*color7:			#f5dcbe
+Urxvt*color8:			#4f7cbf
+Urxvt*color9:			#1c96c7
+Urxvt*color10:			#3bff6f
+Urxvt*color11:			#efc31c
+Urxvt*color12:			#fb605b
+Urxvt*color13:			#975b5a
+Urxvt*color14:			#1eff8e
+Urxvt*color15:			#f6f5fb
+
+Urxvt.background: [95]#211f46
+
+Urxvt.foreground: #ffffff

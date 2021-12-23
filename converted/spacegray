@@ -1,0 +1,22 @@
+! Profile: SpaceGray
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#b04b57
+Urxvt*color2:			#87b379
+Urxvt*color3:			#e5c179
+Urxvt*color4:			#7d8fa4
+Urxvt*color5:			#a47996
+Urxvt*color6:			#85a7a5
+Urxvt*color7:			#b3b8c3
+Urxvt*color8:			#000000
+Urxvt*color9:			#b04b57
+Urxvt*color10:			#87b379
+Urxvt*color11:			#e5c179
+Urxvt*color12:			#7d8fa4
+Urxvt*color13:			#a47996
+Urxvt*color14:			#85a7a5
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#20242d
+
+Urxvt.foreground: #b3b8c3

@@ -1,0 +1,22 @@
+! Profile: ibm3270
+
+Urxvt*color0:			#222222
+Urxvt*color1:			#F01818
+Urxvt*color2:			#24D830
+Urxvt*color3:			#F0D824
+Urxvt*color4:			#7890F0
+Urxvt*color5:			#F078D8
+Urxvt*color6:			#54E4E4
+Urxvt*color7:			#A5A5A5
+Urxvt*color8:			#888888
+Urxvt*color9:			#EF8383
+Urxvt*color10:			#7ED684
+Urxvt*color11:			#EFE28B
+Urxvt*color12:			#B3BFEF
+Urxvt*color13:			#EFB3E3
+Urxvt*color14:			#9CE2E2
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#000000
+
+Urxvt.foreground: #FDFDFD

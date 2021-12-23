@@ -1,0 +1,22 @@
+! Profile: Nightlion V2
+
+Urxvt*color0:			#4c4c4c
+Urxvt*color1:			#bb0000
+Urxvt*color2:			#04f623
+Urxvt*color3:			#f3f167
+Urxvt*color4:			#64d0f0
+Urxvt*color5:			#ce6fdb
+Urxvt*color6:			#00dadf
+Urxvt*color7:			#bbbbbb
+Urxvt*color8:			#555555
+Urxvt*color9:			#ff5555
+Urxvt*color10:			#7df71d
+Urxvt*color11:			#ffff55
+Urxvt*color12:			#62cbe8
+Urxvt*color13:			#ff9bf5
+Urxvt*color14:			#00ccd8
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#171717
+
+Urxvt.foreground: #bbbbbb

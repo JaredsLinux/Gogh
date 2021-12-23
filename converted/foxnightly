@@ -1,0 +1,22 @@
+! Profile: Foxnightly
+
+Urxvt*color0:			#2A2A2E
+Urxvt*color1:			#B98EFF
+Urxvt*color2:			#FF7DE9
+Urxvt*color3:			#729FCF
+Urxvt*color4:			#66A05B
+Urxvt*color5:			#75507B
+Urxvt*color6:			#ACACAE
+Urxvt*color7:			#FFFFFF
+Urxvt*color8:			#A40000
+Urxvt*color9:			#BF4040
+Urxvt*color10:			#66A05B
+Urxvt*color11:			#FFB86C
+Urxvt*color12:			#729FCF
+Urxvt*color13:			#8F5902
+Urxvt*color14:			#C4A000
+Urxvt*color15:			#5C3566
+
+Urxvt.background: [95]#2A2A2E
+
+Urxvt.foreground: #D7D7DB

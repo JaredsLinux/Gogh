@@ -1,0 +1,22 @@
+! Profile: Sat
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#dd0007
+Urxvt*color2:			#07dd00
+Urxvt*color3:			#ddd600
+Urxvt*color4:			#0007dd
+Urxvt*color5:			#d600dd
+Urxvt*color6:			#00ddd6
+Urxvt*color7:			#f2f2f2
+Urxvt*color8:			#7d7d7d
+Urxvt*color9:			#ff7478
+Urxvt*color10:			#78ff74
+Urxvt*color11:			#fffa74
+Urxvt*color12:			#7478ff
+Urxvt*color13:			#fa74ff
+Urxvt*color14:			#74fffa
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#758480
+
+Urxvt.foreground: #23476a

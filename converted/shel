@@ -1,0 +1,22 @@
+! Profile: Shel
+
+Urxvt*color0:			#2c2423
+Urxvt*color1:			#ab2463
+Urxvt*color2:			#6ca323
+Urxvt*color3:			#ab6423
+Urxvt*color4:			#2c64a2
+Urxvt*color5:			#6c24a2
+Urxvt*color6:			#2ca363
+Urxvt*color7:			#918988
+Urxvt*color8:			#918988
+Urxvt*color9:			#f588b9
+Urxvt*color10:			#c2ee86
+Urxvt*color11:			#f5ba86
+Urxvt*color12:			#8fbaec
+Urxvt*color13:			#c288ec
+Urxvt*color14:			#8feeb9
+Urxvt*color15:			#f5eeec
+
+Urxvt.background: [95]#2a201f
+
+Urxvt.foreground: #4882cd

@@ -1,0 +1,22 @@
+! Profile: Github
+
+Urxvt*color0:			#3e3e3e
+Urxvt*color1:			#970b16
+Urxvt*color2:			#07962a
+Urxvt*color3:			#f8eec7
+Urxvt*color4:			#003e8a
+Urxvt*color5:			#e94691
+Urxvt*color6:			#89d1ec
+Urxvt*color7:			#ffffff
+Urxvt*color8:			#666666
+Urxvt*color9:			#de0000
+Urxvt*color10:			#87d5a2
+Urxvt*color11:			#f1d007
+Urxvt*color12:			#2e6cba
+Urxvt*color13:			#ffa29f
+Urxvt*color14:			#1cfafe
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#f4f4f4
+
+Urxvt.foreground: #3e3e3e

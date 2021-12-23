@@ -1,0 +1,22 @@
+! Profile: Belafonte Day
+
+Urxvt*color0:			#20111b
+Urxvt*color1:			#be100e
+Urxvt*color2:			#858162
+Urxvt*color3:			#eaa549
+Urxvt*color4:			#426a79
+Urxvt*color5:			#97522c
+Urxvt*color6:			#989a9c
+Urxvt*color7:			#968c83
+Urxvt*color8:			#5e5252
+Urxvt*color9:			#be100e
+Urxvt*color10:			#858162
+Urxvt*color11:			#eaa549
+Urxvt*color12:			#426a79
+Urxvt*color13:			#97522c
+Urxvt*color14:			#989a9c
+Urxvt*color15:			#d5ccba
+
+Urxvt.background: [95]#d5ccba
+
+Urxvt.foreground: #45373c

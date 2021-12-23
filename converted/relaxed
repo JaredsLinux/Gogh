@@ -1,0 +1,22 @@
+! Profile: Relaxed
+
+Urxvt*color0:			#151515
+Urxvt*color1:			#BC5653
+Urxvt*color2:			#909D63
+Urxvt*color3:			#EBC17A
+Urxvt*color4:			#6A8799
+Urxvt*color5:			#B06698
+Urxvt*color6:			#C9DFFF
+Urxvt*color7:			#D9D9D9
+Urxvt*color8:			#636363
+Urxvt*color9:			#BC5653
+Urxvt*color10:			#A0AC77
+Urxvt*color11:			#EBC17A
+Urxvt*color12:			#7EAAC7
+Urxvt*color13:			#B06698
+Urxvt*color14:			#ACBBD0
+Urxvt*color15:			#F7F7F7
+
+Urxvt.background: [95]#353A44
+
+Urxvt.foreground: #D9D9D9

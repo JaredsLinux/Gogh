@@ -1,0 +1,22 @@
+! Profile: Pnevma
+
+Urxvt*color0:			#2f2e2d
+Urxvt*color1:			#a36666
+Urxvt*color2:			#90a57d
+Urxvt*color3:			#d7af87
+Urxvt*color4:			#7fa5bd
+Urxvt*color5:			#c79ec4
+Urxvt*color6:			#8adbb4
+Urxvt*color7:			#d0d0d0
+Urxvt*color8:			#4a4845
+Urxvt*color9:			#d78787
+Urxvt*color10:			#afbea2
+Urxvt*color11:			#e4c9af
+Urxvt*color12:			#a1bdce
+Urxvt*color13:			#d7beda
+Urxvt*color14:			#b1e7dd
+Urxvt*color15:			#efefef
+
+Urxvt.background: [95]#1c1c1c
+
+Urxvt.foreground: #d0d0d0

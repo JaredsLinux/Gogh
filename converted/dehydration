@@ -1,0 +1,22 @@
+! Profile: DeHydration
+
+Urxvt*color0:			#333333
+Urxvt*color1:			#ff5555
+Urxvt*color2:			#5fd38d
+Urxvt*color3:			#ff9955
+Urxvt*color4:			#3771c8
+Urxvt*color5:			#bc5fd3
+Urxvt*color6:			#5fd3bc
+Urxvt*color7:			#999999
+Urxvt*color8:			#666666
+Urxvt*color9:			#ff8080
+Urxvt*color10:			#87deaa
+Urxvt*color11:			#ffb380
+Urxvt*color12:			#5f8dd3
+Urxvt*color13:			#cd87de
+Urxvt*color14:			#87decd
+Urxvt*color15:			#cccccc
+
+Urxvt.background: [95]$COLOR_01
+
+Urxvt.foreground: $COLOR_16

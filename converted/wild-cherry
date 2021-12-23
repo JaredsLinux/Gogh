@@ -1,0 +1,22 @@
+! Profile: Wild Cherry
+
+Urxvt*color0:			#000507
+Urxvt*color1:			#d94085
+Urxvt*color2:			#2ab250
+Urxvt*color3:			#ffd16f
+Urxvt*color4:			#883cdc
+Urxvt*color5:			#ececec
+Urxvt*color6:			#c1b8b7
+Urxvt*color7:			#fff8de
+Urxvt*color8:			#009cc9
+Urxvt*color9:			#da6bac
+Urxvt*color10:			#f4dca5
+Urxvt*color11:			#eac066
+Urxvt*color12:			#308cba
+Urxvt*color13:			#ae636b
+Urxvt*color14:			#ff919d
+Urxvt*color15:			#e4838d
+
+Urxvt.background: [95]#1f1726
+
+Urxvt.foreground: #dafaff

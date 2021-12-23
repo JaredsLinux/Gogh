@@ -1,0 +1,22 @@
+! Profile: Liquid Carbon
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#ff3030
+Urxvt*color2:			#559a70
+Urxvt*color3:			#ccac00
+Urxvt*color4:			#0099cc
+Urxvt*color5:			#cc69c8
+Urxvt*color6:			#7ac4cc
+Urxvt*color7:			#bccccc
+Urxvt*color8:			#000000
+Urxvt*color9:			#ff3030
+Urxvt*color10:			#559a70
+Urxvt*color11:			#ccac00
+Urxvt*color12:			#0099cc
+Urxvt*color13:			#cc69c8
+Urxvt*color14:			#7ac4cc
+Urxvt*color15:			#bccccc
+
+Urxvt.background: [95]#303030
+
+Urxvt.foreground: #afc2c2

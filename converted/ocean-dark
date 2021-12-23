@@ -1,0 +1,22 @@
+! Profile: Ocean Dark
+
+Urxvt*color0:			#4F4F4F
+Urxvt*color1:			#AF4B57
+Urxvt*color2:			#AFD383
+Urxvt*color3:			#E5C079
+Urxvt*color4:			#7D90A4
+Urxvt*color5:			#A4799D
+Urxvt*color6:			#85A6A5
+Urxvt*color7:			#EEEDEE
+Urxvt*color8:			#7B7B7B
+Urxvt*color9:			#AF4B57
+Urxvt*color10:			#CEFFAB
+Urxvt*color11:			#FFFECC
+Urxvt*color12:			#B5DCFE
+Urxvt*color13:			#FB9BFE
+Urxvt*color14:			#DFDFFD
+Urxvt*color15:			#FEFFFE
+
+Urxvt.background: [95]#1C1F27
+
+Urxvt.foreground: #979CAC

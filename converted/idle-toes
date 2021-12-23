@@ -1,0 +1,22 @@
+! Profile: Idle Toes
+
+Urxvt*color0:			#323232
+Urxvt*color1:			#d25252
+Urxvt*color2:			#7fe173
+Urxvt*color3:			#ffc66d
+Urxvt*color4:			#4099ff
+Urxvt*color5:			#f680ff
+Urxvt*color6:			#bed6ff
+Urxvt*color7:			#eeeeec
+Urxvt*color8:			#535353
+Urxvt*color9:			#f07070
+Urxvt*color10:			#9dff91
+Urxvt*color11:			#ffe48b
+Urxvt*color12:			#5eb7f7
+Urxvt*color13:			#ff9dff
+Urxvt*color14:			#dcf4ff
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#323232
+
+Urxvt.foreground: #ffffff

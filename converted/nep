@@ -1,0 +1,22 @@
+! Profile: Nep
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#dd6f00
+Urxvt*color2:			#00dd6f
+Urxvt*color3:			#6fdd00
+Urxvt*color4:			#6f00dd
+Urxvt*color5:			#dd006f
+Urxvt*color6:			#006fdd
+Urxvt*color7:			#f2f2f2
+Urxvt*color8:			#7d7d7d
+Urxvt*color9:			#ffb974
+Urxvt*color10:			#74ffb9
+Urxvt*color11:			#b9ff74
+Urxvt*color12:			#b974ff
+Urxvt*color13:			#ff74b9
+Urxvt*color14:			#74b9ff
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#758480
+
+Urxvt.foreground: #23476a

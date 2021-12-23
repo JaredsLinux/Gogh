@@ -1,0 +1,22 @@
+! Profile: Rippedcasts
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#cdaf95
+Urxvt*color2:			#a8ff60
+Urxvt*color3:			#bfbb1f
+Urxvt*color4:			#75a5b0
+Urxvt*color5:			#ff73fd
+Urxvt*color6:			#5a647e
+Urxvt*color7:			#bfbfbf
+Urxvt*color8:			#666666
+Urxvt*color9:			#eecbad
+Urxvt*color10:			#bcee68
+Urxvt*color11:			#e5e500
+Urxvt*color12:			#86bdc9
+Urxvt*color13:			#e500e5
+Urxvt*color14:			#8c9bc4
+Urxvt*color15:			#e5e5e5
+
+Urxvt.background: [95]#2b2b2b
+
+Urxvt.foreground: #ffffff

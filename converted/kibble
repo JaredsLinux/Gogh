@@ -1,0 +1,22 @@
+! Profile: Kibble
+
+Urxvt*color0:			#4d4d4d
+Urxvt*color1:			#c70031
+Urxvt*color2:			#29cf13
+Urxvt*color3:			#d8e30e
+Urxvt*color4:			#3449d1
+Urxvt*color5:			#8400ff
+Urxvt*color6:			#0798ab
+Urxvt*color7:			#e2d1e3
+Urxvt*color8:			#5a5a5a
+Urxvt*color9:			#f01578
+Urxvt*color10:			#6ce05c
+Urxvt*color11:			#f3f79e
+Urxvt*color12:			#97a4f7
+Urxvt*color13:			#c495f0
+Urxvt*color14:			#68f2e0
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#0e100a
+
+Urxvt.foreground: #f7f7f7

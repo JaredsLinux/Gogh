@@ -1,0 +1,22 @@
+! Profile: gooey
+
+Urxvt*color0:			#000009
+Urxvt*color1:			#BB4F6C
+Urxvt*color2:			#72CCAE
+Urxvt*color3:			#C65E3D
+Urxvt*color4:			#58B6CA
+Urxvt*color5:			#6488C4
+Urxvt*color6:			#8D84C6
+Urxvt*color7:			#858893
+Urxvt*color8:			#1f222d
+Urxvt*color9:			#ee829f
+Urxvt*color10:			#a5ffe1
+Urxvt*color11:			#f99170
+Urxvt*color12:			#8be9fd
+Urxvt*color13:			#97bbf7
+Urxvt*color14:			#c0b7f9
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#0D101B
+
+Urxvt.foreground: #EBEEF9

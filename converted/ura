@@ -1,0 +1,22 @@
+! Profile: Ura
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#c21b6f
+Urxvt*color2:			#6fc21b
+Urxvt*color3:			#c26f1b
+Urxvt*color4:			#1b6fc2
+Urxvt*color5:			#6f1bc2
+Urxvt*color6:			#1bc26f
+Urxvt*color7:			#808080
+Urxvt*color8:			#808080
+Urxvt*color9:			#ee84b9
+Urxvt*color10:			#b9ee84
+Urxvt*color11:			#eeb984
+Urxvt*color12:			#84b9ee
+Urxvt*color13:			#b984ee
+Urxvt*color14:			#84eeb9
+Urxvt*color15:			#e5e5e5
+
+Urxvt.background: [95]#feffee
+
+Urxvt.foreground: #23476a

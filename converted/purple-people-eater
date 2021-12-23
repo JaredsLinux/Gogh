@@ -1,0 +1,22 @@
+! Profile: Purple People Eater
+
+Urxvt*color0:			#0d1117
+Urxvt*color1:			#e34c26
+Urxvt*color2:			#238636
+Urxvt*color3:			#ed9a51
+Urxvt*color4:			#a5d6ff
+Urxvt*color5:			#6eb0e8
+Urxvt*color6:			#c09aeb
+Urxvt*color7:			#c9d1d9
+Urxvt*color8:			#0d1117
+Urxvt*color9:			#ff7b72
+Urxvt*color10:			#3bab4a
+Urxvt*color11:			#ffa657
+Urxvt*color12:			#a5d6ff
+Urxvt*color13:			#79c0ff
+Urxvt*color14:			#b694df
+Urxvt*color15:			#c9d1d9
+
+Urxvt.background: [95]#161b22
+
+Urxvt.foreground: #c9d1d9

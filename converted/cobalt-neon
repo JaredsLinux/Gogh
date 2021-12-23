@@ -1,0 +1,22 @@
+! Profile: Cobalt Neon
+
+Urxvt*color0:			#142631
+Urxvt*color1:			#ff2320
+Urxvt*color2:			#3ba5ff
+Urxvt*color3:			#e9e75c
+Urxvt*color4:			#8ff586
+Urxvt*color5:			#781aa0
+Urxvt*color6:			#8ff586
+Urxvt*color7:			#ba46b2
+Urxvt*color8:			#fff688
+Urxvt*color9:			#d4312e
+Urxvt*color10:			#8ff586
+Urxvt*color11:			#e9f06d
+Urxvt*color12:			#3c7dd2
+Urxvt*color13:			#8230a7
+Urxvt*color14:			#6cbc67
+Urxvt*color15:			#8ff586
+
+Urxvt.background: [95]#142838
+
+Urxvt.foreground: #8ff586

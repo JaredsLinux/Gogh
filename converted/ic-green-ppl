@@ -1,0 +1,22 @@
+! Profile: IC Green PPL
+
+Urxvt*color0:			#1f1f1f
+Urxvt*color1:			#fb002a
+Urxvt*color2:			#339c24
+Urxvt*color3:			#659b25
+Urxvt*color4:			#149b45
+Urxvt*color5:			#53b82c
+Urxvt*color6:			#2cb868
+Urxvt*color7:			#e0ffef
+Urxvt*color8:			#032710
+Urxvt*color9:			#a7ff3f
+Urxvt*color10:			#9fff6d
+Urxvt*color11:			#d2ff6d
+Urxvt*color12:			#72ffb5
+Urxvt*color13:			#50ff3e
+Urxvt*color14:			#22ff71
+Urxvt*color15:			#daefd0
+
+Urxvt.background: [95]#3a3d3f
+
+Urxvt.foreground: #d9efd3

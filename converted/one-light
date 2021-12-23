@@ -1,0 +1,22 @@
+! Profile: One Light
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#DA3E39
+Urxvt*color2:			#41933E
+Urxvt*color3:			#855504
+Urxvt*color4:			#315EEE
+Urxvt*color5:			#930092
+Urxvt*color6:			#0E6FAD
+Urxvt*color7:			#8E8F96
+Urxvt*color8:			#2A2B32
+Urxvt*color9:			#DA3E39
+Urxvt*color10:			#41933E
+Urxvt*color11:			#855504
+Urxvt*color12:			#315EEE
+Urxvt*color13:			#930092
+Urxvt*color14:			#0E6FAD
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#F8F8F8
+
+Urxvt.foreground: #2A2B32

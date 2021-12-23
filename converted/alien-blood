@@ -1,0 +1,22 @@
+! Profile: Alien Blood
+
+Urxvt*color0:			#112616
+Urxvt*color1:			#7f2b27
+Urxvt*color2:			#2f7e25
+Urxvt*color3:			#717f24
+Urxvt*color4:			#2f6a7f
+Urxvt*color5:			#47587f
+Urxvt*color6:			#327f77
+Urxvt*color7:			#647d75
+Urxvt*color8:			#3c4812
+Urxvt*color9:			#e08009
+Urxvt*color10:			#18e000
+Urxvt*color11:			#bde000
+Urxvt*color12:			#00aae0
+Urxvt*color13:			#0058e0
+Urxvt*color14:			#00e0c4
+Urxvt*color15:			#73fa91
+
+Urxvt.background: [95]#0f1610
+
+Urxvt.foreground: #637d75

@@ -1,0 +1,22 @@
+! Profile: Hardcore
+
+Urxvt*color0:			#1b1d1e
+Urxvt*color1:			#f92672
+Urxvt*color2:			#a6e22e
+Urxvt*color3:			#fd971f
+Urxvt*color4:			#66d9ef
+Urxvt*color5:			#9e6ffe
+Urxvt*color6:			#5e7175
+Urxvt*color7:			#ccccc6
+Urxvt*color8:			#505354
+Urxvt*color9:			#ff669d
+Urxvt*color10:			#beed5f
+Urxvt*color11:			#e6db74
+Urxvt*color12:			#66d9ef
+Urxvt*color13:			#9e6ffe
+Urxvt*color14:			#a3babf
+Urxvt*color15:			#f8f8f2
+
+Urxvt.background: [95]#121212
+
+Urxvt.foreground: #a0a0a0

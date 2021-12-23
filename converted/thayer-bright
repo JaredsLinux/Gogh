@@ -1,0 +1,22 @@
+! Profile: Thayer Bright
+
+Urxvt*color0:			#1b1d1e
+Urxvt*color1:			#f92672
+Urxvt*color2:			#4df840
+Urxvt*color3:			#f4fd22
+Urxvt*color4:			#2757d6
+Urxvt*color5:			#8c54fe
+Urxvt*color6:			#38c8b5
+Urxvt*color7:			#ccccc6
+Urxvt*color8:			#505354
+Urxvt*color9:			#ff5995
+Urxvt*color10:			#b6e354
+Urxvt*color11:			#feed6c
+Urxvt*color12:			#3f78ff
+Urxvt*color13:			#9e6ffe
+Urxvt*color14:			#23cfd5
+Urxvt*color15:			#f8f8f2
+
+Urxvt.background: [95]#1b1d1e
+
+Urxvt.foreground: #f8f8f8

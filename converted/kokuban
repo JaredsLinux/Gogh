@@ -1,0 +1,22 @@
+! Profile: kokuban
+
+Urxvt*color0:			#2E8744
+Urxvt*color1:			#D84E4C
+Urxvt*color2:			#95DA5A
+Urxvt*color3:			#D6E264
+Urxvt*color4:			#4B9ED7
+Urxvt*color5:			#945FC5
+Urxvt*color6:			#D89B25
+Urxvt*color7:			#D8E2D7
+Urxvt*color8:			#34934F
+Urxvt*color9:			#FF4F59
+Urxvt*color10:			#AFF56A
+Urxvt*color11:			#FCFF75
+Urxvt*color12:			#57AEFF
+Urxvt*color13:			#AE63E9
+Urxvt*color14:			#FFAA2B
+Urxvt*color15:			#FFFEFE
+
+Urxvt.background: [95]#0D4A08
+
+Urxvt.foreground: #D8E2D7

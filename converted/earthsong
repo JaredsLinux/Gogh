@@ -1,0 +1,22 @@
+! Profile: Earthsong
+
+Urxvt*color0:			#121418
+Urxvt*color1:			#c94234
+Urxvt*color2:			#85c54c
+Urxvt*color3:			#f5ae2e
+Urxvt*color4:			#1398b9
+Urxvt*color5:			#d0633d
+Urxvt*color6:			#509552
+Urxvt*color7:			#e5c6aa
+Urxvt*color8:			#675f54
+Urxvt*color9:			#ff645a
+Urxvt*color10:			#98e036
+Urxvt*color11:			#e0d561
+Urxvt*color12:			#5fdaff
+Urxvt*color13:			#ff9269
+Urxvt*color14:			#84f088
+Urxvt*color15:			#f6f7ec
+
+Urxvt.background: [95]#292520
+
+Urxvt.foreground: #e5c7a9

@@ -1,0 +1,22 @@
+! Profile: Frontend Delight
+
+Urxvt*color0:			#242526
+Urxvt*color1:			#f8511b
+Urxvt*color2:			#565747
+Urxvt*color3:			#fa771d
+Urxvt*color4:			#2c70b7
+Urxvt*color5:			#f02e4f
+Urxvt*color6:			#3ca1a6
+Urxvt*color7:			#adadad
+Urxvt*color8:			#5fac6d
+Urxvt*color9:			#f74319
+Urxvt*color10:			#74ec4c
+Urxvt*color11:			#fdc325
+Urxvt*color12:			#3393ca
+Urxvt*color13:			#e75e4f
+Urxvt*color14:			#4fbce6
+Urxvt*color15:			#8c735b
+
+Urxvt.background: [95]#1b1c1d
+
+Urxvt.foreground: #adadad

@@ -1,0 +1,22 @@
+! Profile: neon-night
+
+Urxvt*color0:			#20242d
+Urxvt*color1:			#FF8E8E
+Urxvt*color2:			#7EFDD0
+Urxvt*color3:			#FCAD3F
+Urxvt*color4:			#69B4F9
+Urxvt*color5:			#DD92F6
+Urxvt*color6:			#8CE8ff
+Urxvt*color7:			#C9CCCD
+Urxvt*color8:			#20242d
+Urxvt*color9:			#FF8E8E
+Urxvt*color10:			#7EFDD0
+Urxvt*color11:			#FCAD3F
+Urxvt*color12:			#69B4F9
+Urxvt*color13:			#DD92F6
+Urxvt*color14:			#8CE8ff
+Urxvt*color15:			#C9CCCD
+
+Urxvt.background: [95]#20242d
+
+Urxvt.foreground: #C7C8FF

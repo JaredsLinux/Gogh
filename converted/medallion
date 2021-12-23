@@ -1,0 +1,22 @@
+! Profile: Medallion
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#b64c00
+Urxvt*color2:			#7c8b16
+Urxvt*color3:			#d3bd26
+Urxvt*color4:			#616bb0
+Urxvt*color5:			#8c5a90
+Urxvt*color6:			#916c25
+Urxvt*color7:			#cac29a
+Urxvt*color8:			#5e5219
+Urxvt*color9:			#ff9149
+Urxvt*color10:			#b2ca3b
+Urxvt*color11:			#ffe54a
+Urxvt*color12:			#acb8ff
+Urxvt*color13:			#ffa0ff
+Urxvt*color14:			#ffbc51
+Urxvt*color15:			#fed698
+
+Urxvt.background: [95]#1d1908
+
+Urxvt.foreground: #cac296

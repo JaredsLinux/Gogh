@@ -1,0 +1,22 @@
+! Profile: Material
+
+Urxvt*color0:			#073641
+Urxvt*color1:			#EB606B
+Urxvt*color2:			#C3E88D
+Urxvt*color3:			#F7EB95
+Urxvt*color4:			#80CBC3
+Urxvt*color5:			#FF2490
+Urxvt*color6:			#AEDDFF
+Urxvt*color7:			#FFFFFF
+Urxvt*color8:			#002B36
+Urxvt*color9:			#EB606B
+Urxvt*color10:			#C3E88D
+Urxvt*color11:			#F7EB95
+Urxvt*color12:			#7DC6BF
+Urxvt*color13:			#6C71C3
+Urxvt*color14:			#34434D
+Urxvt*color15:			#FFFFFF
+
+Urxvt.background: [95]#1E282C
+
+Urxvt.foreground: #C3C7D1

@@ -1,0 +1,22 @@
+! Profile: Grape
+
+Urxvt*color0:			#2d283f
+Urxvt*color1:			#ed2261
+Urxvt*color2:			#1fa91b
+Urxvt*color3:			#8ddc20
+Urxvt*color4:			#487df4
+Urxvt*color5:			#8d35c9
+Urxvt*color6:			#3bdeed
+Urxvt*color7:			#9e9ea0
+Urxvt*color8:			#59516a
+Urxvt*color9:			#f0729a
+Urxvt*color10:			#53aa5e
+Urxvt*color11:			#b2dc87
+Urxvt*color12:			#a9bcec
+Urxvt*color13:			#ad81c2
+Urxvt*color14:			#9de3eb
+Urxvt*color15:			#a288f7
+
+Urxvt.background: [95]#171423
+
+Urxvt.foreground: #9f9fa1

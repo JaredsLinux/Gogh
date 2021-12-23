@@ -1,0 +1,22 @@
+! Profile: Jup
+
+Urxvt*color0:			#000000
+Urxvt*color1:			#dd006f
+Urxvt*color2:			#6fdd00
+Urxvt*color3:			#dd6f00
+Urxvt*color4:			#006fdd
+Urxvt*color5:			#6f00dd
+Urxvt*color6:			#00dd6f
+Urxvt*color7:			#f2f2f2
+Urxvt*color8:			#7d7d7d
+Urxvt*color9:			#ff74b9
+Urxvt*color10:			#b9ff74
+Urxvt*color11:			#ffb974
+Urxvt*color12:			#74b9ff
+Urxvt*color13:			#b974ff
+Urxvt*color14:			#74ffb9
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#758480
+
+Urxvt.foreground: #23476a

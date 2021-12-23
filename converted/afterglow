@@ -1,0 +1,22 @@
+! Profile: Afterglow
+
+Urxvt*color0:			#151515
+Urxvt*color1:			#a53c23
+Urxvt*color2:			#7b9246
+Urxvt*color3:			#d3a04d
+Urxvt*color4:			#6c99bb
+Urxvt*color5:			#9f4e85
+Urxvt*color6:			#7dd6cf
+Urxvt*color7:			#d0d0d0
+Urxvt*color8:			#505050
+Urxvt*color9:			#a53c23
+Urxvt*color10:			#7b9246
+Urxvt*color11:			#d3a04d
+Urxvt*color12:			#547c99
+Urxvt*color13:			#9f4e85
+Urxvt*color14:			#7dd6cf
+Urxvt*color15:			#f5f5f5
+
+Urxvt.background: [95]#222222
+
+Urxvt.foreground: #d0d0d0

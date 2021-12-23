@@ -1,0 +1,22 @@
+! Profile: Pencil Light
+
+Urxvt*color0:			#212121
+Urxvt*color1:			#c30771
+Urxvt*color2:			#10a778
+Urxvt*color3:			#a89c14
+Urxvt*color4:			#008ec4
+Urxvt*color5:			#523c79
+Urxvt*color6:			#20a5ba
+Urxvt*color7:			#d9d9d9
+Urxvt*color8:			#424242
+Urxvt*color9:			#fb007a
+Urxvt*color10:			#5fd7af
+Urxvt*color11:			#f3e430
+Urxvt*color12:			#20bbfc
+Urxvt*color13:			#6855de
+Urxvt*color14:			#4fb8cc
+Urxvt*color15:			#f1f1f1
+
+Urxvt.background: [95]#f1f1f1
+
+Urxvt.foreground: #424242

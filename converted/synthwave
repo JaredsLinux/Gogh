@@ -1,0 +1,22 @@
+! Profile: SynthWave
+
+Urxvt*color0:			#011627
+Urxvt*color1:			#fe4450
+Urxvt*color2:			#72f1b8
+Urxvt*color3:			#fede5d
+Urxvt*color4:			#03edf9
+Urxvt*color5:			#ff7edb
+Urxvt*color6:			#03edf9
+Urxvt*color7:			#ffffff
+Urxvt*color8:			#575656
+Urxvt*color9:			#fe4450
+Urxvt*color10:			#72f1b8
+Urxvt*color11:			#fede5d
+Urxvt*color12:			#03edf9
+Urxvt*color13:			#ff7edb
+Urxvt*color14:			#03edf9
+Urxvt*color15:			#ffffff
+
+Urxvt.background: [95]#262335
+
+Urxvt.foreground: #ffffff
