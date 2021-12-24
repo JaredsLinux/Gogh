@@ -1,0 +1,22 @@
+! Profile: Arch Linux Installer
+
+Urxvt*color0:          #191919
+Urxvt*color1:          #D15355
+Urxvt*color2:          #609960
+Urxvt*color3:          #FFCC66
+Urxvt*color4:          #255A9B
+Urxvt*color5:          #AF86C8
+Urxvt*color6:          #2EC8D3
+Urxvt*color7:          #949494
+Urxvt*color8:          #191919
+Urxvt*color9:          #D15355
+Urxvt*color10:         #609960
+Urxvt*color11:         #FF9157
+Urxvt*color12:         #4E88CF
+Urxvt*color13:         #AF86C8
+Urxvt*color14:         #2ec8d3
+Urxvt*color15:         #E1E1E1
+
+Urxvt.background: [95]#0d1926
+
+Urxvt.foreground: #b4e1fd
